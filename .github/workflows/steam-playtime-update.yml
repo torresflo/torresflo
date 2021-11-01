@@ -31,8 +31,8 @@ jobs:
       - name: Clone and run steam-box
         run: |-
           git clone https://github.com/torresflo/steam-box-for-readme.git
-          cd steam-box && go build -o steam ./cmd/box/main.go
-          mv ./steam ../ && cd .. && rm -rf steam-box/
+          cd steam-box-for-readme && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box-for-readme/
       - name: Commit and push
         run: |-
           ./steam
