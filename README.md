@@ -26,7 +26,7 @@ Want to play something cool? Here are my personal bests!
 - The Binding of Isaac Rebirth, 2014
 - Dishonored 2, 2016
 
-### My Steam playtime leaderboard
+### ⏱ My Steam playtime leaderboard
 
  <!-- steam-box start -->
  https://github.com/YouEclipse/steam-box
@@ -34,7 +34,7 @@ Want to play something cool? Here are my personal bests!
 
 --------------------------------------
 
-### Some stats about my repositories
+### 📊 Some stats about my repositories
 <!--START_SECTION:waka-->
 https://github.com/anmol098/waka-readme-stats
 <!--END_SECTION:waka-->
