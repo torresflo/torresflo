@@ -29,6 +29,11 @@ Want to play something cool? Here are my personal bests!
 ### 🕘 My Steam leaderboard
 
 <!-- steam-box-recent start -->
+🎮 Recently played Steam games
+```text
+
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box-recent end -->
 
 <!-- steam-box-playtime start -->
