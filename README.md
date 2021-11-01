@@ -26,7 +26,7 @@ Want to play something cool? Here are my personal bests!
 - The Binding of Isaac Rebirth, 2014
 - Dishonored 2, 2016
 
-### ⏱ My Steam playtime leaderboard
+### 🕘 My Steam leaderboard
 
  <!-- steam-box start -->
 🎮 Steam playtime leaderboard
@@ -43,9 +43,10 @@ Want to play something cool? Here are my personal bests!
 --------------------------------------
 
 ### 📊 Some stats about my repositories
-<!--START_SECTION:waka-->
-https://github.com/anmol098/waka-readme-stats
-<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=torresflo&theme=tokyonight&hide_border=0" alt="GitHub Profile"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresflo&exclude_repo=Pokemon-Obsidian&theme=tokyonight&hide_border=0" alt="Favorite Languages"/>
 
 ### How to reach me
 <a href="https://github.com/torresflo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
