@@ -29,8 +29,16 @@ Want to play something cool? Here are my personal bests!
 ### ⏱ My Steam playtime leaderboard
 
  <!-- steam-box start -->
- https://github.com/YouEclipse/steam-box
- <!-- steam-box end -->
+🎮 Steam playtime leaderboard
+```text
+🎮 The Binding of Isaac: Rebirth    🕘 454 hrs 17 mins
+🎮 Terraria                         🕘 243 hrs 37 mins
+🚀 Rocket League                    🕘 172 hrs 16 mins
+🎮 Fall Guys: Ultimate Knockout     🕘 111 hrs 57 mins
+🎮 The Elder Scrolls V: Skyrim      🕘 87 hrs 52 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
 --------------------------------------
 
