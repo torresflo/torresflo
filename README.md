@@ -32,6 +32,7 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🎮 Dicey Dungeons                   🕘 6 hrs 40 mins
+🎲 The Binding of Isaac: Rebirth    🕘 454 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box-recent end -->
