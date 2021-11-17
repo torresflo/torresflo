@@ -31,7 +31,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎲 The Binding of Isaac: Rebirth    🕘 454 hrs 17 mins
+🎮 Halo Infinite                    🕘 3 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box-recent end -->
