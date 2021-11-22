@@ -31,7 +31,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Halo Infinite                    🕘 7 hrs 14 mins
+🎮 Halo Infinite                    🕘 7 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box-recent end -->
