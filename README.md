@@ -19,13 +19,14 @@ I worked on several games during my career, here there are!
 ### ⭐ My favorite games
 Want to play something cool? Here are my personal bests!
 
-- Tales of Symphonia, 2003
-- Pokémon Gold, 1999
-- Halo 3, 2007
-- Portal 2, 2011
-- The Binding of Isaac Rebirth, 2014
-- Dishonored 2, 2016
-
+```text
+⚔️ Tales of Symphonia               📅 2003
+🧬 Pokémon Gold                     📅 1999
+🪐 Halo 3                           📅 2007
+🌌 Portal 2                         📅 2011
+🎲 The Binding of Isaac Rebirth     📅 2014
+🗡️ Dishonored 2                     📅 2016
+```
 ### 🕘 My Steam leaderboard
 
 <!-- steam-box-recent start -->
