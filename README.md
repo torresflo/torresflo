@@ -33,7 +33,6 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🪐 Halo Infinite                    🕘 36 hrs 20 mins
-🎮 Chorus                           🕘 0 hrs 22 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
