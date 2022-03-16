@@ -32,7 +32,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🪐 Halo Infinite                    🕘 53 hrs 15 mins
+🪐 Halo Infinite                    🕘 56 hrs 13 mins
 🎮 Antichamber                      🕘 5 hrs 48 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
