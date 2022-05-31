@@ -32,7 +32,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🪐 Halo Infinite                    🕘 96 hrs 12 mins
+🪐 Halo Infinite                    🕘 97 hrs 30 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -44,7 +44,7 @@ Want to play something cool? Here are my personal bests!
 🌍 Terraria                         🕘 243 hrs 37 mins
 🚀 Rocket League                    🕘 172 hrs 16 mins
 🎪 Fall Guys: Ultimate Knockout     🕘 111 hrs 57 mins
-🪐 Halo Infinite                    🕘 96 hrs 12 mins
+🪐 Halo Infinite                    🕘 97 hrs 30 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
