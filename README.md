@@ -32,7 +32,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎪 Fall Guys                        🕘 117 hrs 49 mins
+🎪 Fall Guys                        🕘 123 hrs 22 mins
 🪐 Halo Infinite                    🕘 107 hrs 56 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
@@ -44,7 +44,7 @@ Want to play something cool? Here are my personal bests!
 🎲 The Binding of Isaac: Rebirth    🕘 454 hrs 43 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
 🚀 Rocket League                    🕘 172 hrs 16 mins
-🎪 Fall Guys                        🕘 117 hrs 49 mins
+🎪 Fall Guys                        🕘 123 hrs 22 mins
 🪐 Halo Infinite                    🕘 107 hrs 56 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
