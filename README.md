@@ -32,8 +32,8 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎪 Fall Guys                        🕘 127 hrs 54 mins
 🪐 Halo Infinite                    🕘 120 hrs 52 mins
+🎪 Fall Guys                        🕘 127 hrs 54 mins
 🎮 Dicey Dungeons                   🕘 7 hrs 39 mins
 🎮 Townscaper                       🕘 10 hrs 20 mins
 🎮 Aperture Desk Job                🕘 0 hrs 31 mins
