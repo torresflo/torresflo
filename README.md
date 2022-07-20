@@ -35,8 +35,6 @@ Want to play something cool? Here are my personal bests!
 🪐 Halo Infinite                    🕘 123 hrs 26 mins
 🎪 Fall Guys                        🕘 127 hrs 54 mins
 🎮 Dicey Dungeons                   🕘 7 hrs 39 mins
-🎮 Townscaper                       🕘 10 hrs 20 mins
-🎮 Aperture Desk Job                🕘 0 hrs 31 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
