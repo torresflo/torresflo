@@ -32,7 +32,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🪐 Halo Infinite                    🕘 123 hrs 29 mins
+🪐 Halo Infinite                    🕘 126 hrs 21 mins
 🎪 Fall Guys                        🕘 129 hrs 40 mins
 🎮 Dicey Dungeons                   🕘 7 hrs 39 mins
 ```
@@ -46,7 +46,7 @@ Want to play something cool? Here are my personal bests!
 🌍 Terraria                         🕘 243 hrs 37 mins
 🚀 Rocket League                    🕘 172 hrs 16 mins
 🎪 Fall Guys                        🕘 129 hrs 40 mins
-🪐 Halo Infinite                    🕘 123 hrs 29 mins
+🪐 Halo Infinite                    🕘 126 hrs 21 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
