@@ -35,7 +35,6 @@ Want to play something cool? Here are my personal bests!
 🪐 Halo Infinite                    🕘 126 hrs 21 mins
 🎪 Fall Guys                        🕘 129 hrs 40 mins
 🎮 Ultimate Chicken Horse           🕘 26 hrs 45 mins
-🎮 Dicey Dungeons                   🕘 7 hrs 39 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
