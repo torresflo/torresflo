@@ -32,7 +32,6 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🪐 Halo Infinite                    🕘 126 hrs 21 mins
 🎮 Ultimate Chicken Horse           🕘 27 hrs 14 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
