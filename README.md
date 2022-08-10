@@ -32,7 +32,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Ultimate Chicken Horse           🕘 27 hrs 14 mins
+🎮 Ultimate Chicken Horse           🕘 27 hrs 54 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
