@@ -26,6 +26,8 @@ Want to play something cool? Here are my personal bests!
 🌌 Portal 2                         📅 2011
 🎲 The Binding of Isaac Rebirth     📅 2014
 🗡️ Dishonored 2                     📅 2016
+📡 Titanfall 2                      📅 2016
+🎓 Persona 5                        📅 2017
 ```
 ### 🕘 My Steam leaderboard
 
