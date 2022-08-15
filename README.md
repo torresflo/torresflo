@@ -34,6 +34,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
+🪐 Halo Infinite                    🕘 129 hrs 25 mins
 🎪 Fall Guys                        🕘 131 hrs 15 mins
 🎮 Ultimate Chicken Horse           🕘 27 hrs 54 mins
 ```
@@ -47,7 +48,7 @@ Want to play something cool? Here are my personal bests!
 🌍 Terraria                         🕘 243 hrs 37 mins
 🚀 Rocket League                    🕘 172 hrs 16 mins
 🎪 Fall Guys                        🕘 131 hrs 15 mins
-🪐 Halo Infinite                    🕘 126 hrs 21 mins
+🪐 Halo Infinite                    🕘 129 hrs 25 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
