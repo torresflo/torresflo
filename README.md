@@ -34,9 +34,9 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🪐 Halo Infinite                    🕘 129 hrs 25 mins
-🎪 Fall Guys                        🕘 131 hrs 15 mins
-🎮 Ultimate Chicken Horse           🕘 27 hrs 54 mins
+🪐 Halo Infinite                    🕘 131 hrs 16 mins
+🎪 Fall Guys                        🕘 132 hrs 55 mins
+🎮 Ultimate Chicken Horse           🕘 28 hrs 54 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -47,8 +47,8 @@ Want to play something cool? Here are my personal bests!
 🎲 The Binding of Isaac: Rebirth    🕘 454 hrs 43 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
 🚀 Rocket League                    🕘 172 hrs 16 mins
-🎪 Fall Guys                        🕘 131 hrs 15 mins
-🪐 Halo Infinite                    🕘 129 hrs 25 mins
+🎪 Fall Guys                        🕘 132 hrs 55 mins
+🪐 Halo Infinite                    🕘 131 hrs 16 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
