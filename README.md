@@ -72,4 +72,8 @@ Want to play something cool? Here are my personal bests!
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
+In Visual Studio
+
+<kbd>F10</kbd> to `Step Over`
+<!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
