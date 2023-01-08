@@ -59,8 +59,17 @@ Want to play something cool? Here are my personal bests!
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresflo&exclude_repo=Pokemon-Obsidian&theme=tokyonight&hide_border=0" alt="Favorite Languages"/>
 
-### How to reach me
+--------------------------------------
+
+### 📡 How to reach me
 <a href="https://github.com/torresflo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/floriantorres/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/_torresflo_"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://www.twitch.tv/lamavocat"><img alt="Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
+
+--------------------------------------
+
+### 💻 Random shortcut every day
+
+<!-- shortcut-box start -->
+<!-- shortcut-box end -->
