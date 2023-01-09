@@ -74,6 +74,6 @@ Want to play something cool? Here are my personal bests!
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>1</kbd> + <kbd>T</kbd> to `Go to Type`
+<kbd>F5</kbd> to `Debug`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
