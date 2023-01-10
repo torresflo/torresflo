@@ -72,8 +72,8 @@ Want to play something cool? Here are my personal bests!
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>F5</kbd> to `Debug`
+<kbd>Ctrl</kbd> + <kbd>G</kbd> to `Go to Line...`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
