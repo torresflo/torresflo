@@ -72,8 +72,8 @@ Want to play something cool? Here are my personal bests!
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio Code
+In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>G</kbd> to `Go to Line...`
+<kbd>F11</kbd> to `Step Into`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
