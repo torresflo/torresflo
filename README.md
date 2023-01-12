@@ -72,8 +72,8 @@ Want to play something cool? Here are my personal bests!
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>F11</kbd> to `Step Into`
+<kbd>Ctrl</kbd> + <kbd>.</kbd> to `Quick Fix`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
