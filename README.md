@@ -74,6 +74,6 @@ Want to play something cool? Here are my personal bests!
 <!-- shortcut-box start -->
 In Visual Studio Code
 
-<kbd>Ctrl</kbd> + <kbd>.</kbd> to `Quick Fix`
+<kbd>Ctrl</kbd> + <kbd>T</kbd> to `Show all Symbols`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
