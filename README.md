@@ -56,6 +56,15 @@ Want to play something cool? Here are my personal bests!
 ### 📊 Some stats about my repositories
 
 <!-- github-stats-box start -->
+My GitHub Stats
+```text
+⭐ Total Stars:                     30
+➕ Total Commits:                   225
+🔀 Total Pull Requests:             3
+🚩 Total Issues:                    0
+📦 Contributed to:                  0
+```
+<!-- Powered by https://github.com/torresflo/GitHub-Stats-Me. -->
 <!-- github-stats-box end -->
 
 --------------------------------------
