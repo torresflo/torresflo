@@ -10,6 +10,7 @@ jobs:
     name: Update-GitHub-Stats
     runs-on: ubuntu-latest
     env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       GH_LOGIN: torresflo
       MARKDOWN_FILE: ../README.md
 
