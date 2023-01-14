@@ -55,9 +55,8 @@ Want to play something cool? Here are my personal bests!
 
 ### 📊 Some stats about my repositories
 
-<img src="https://github-readme-stats.vercel.app/api?username=torresflo&theme=tokyonight&hide_border=0" alt="GitHub Profile"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresflo&exclude_repo=Pokemon-Obsidian&theme=tokyonight&hide_border=0" alt="Favorite Languages"/>
+<!-- github-stats-box start -->
+<!-- github-stats-box end -->
 
 --------------------------------------
 
