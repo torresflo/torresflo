@@ -53,7 +53,7 @@ Want to play something cool? Here are my personal bests!
 
 --------------------------------------
 
-### 📊 Some stats about my repositories
+### 📊 Some stats about my repositories (updated every week)
 
 <!-- github-stats-box start -->
 My GitHub Stats
