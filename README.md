@@ -80,8 +80,8 @@ My GitHub Stats
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>Alt</kbd> + <kbd>↲</kbd> to `Quick Actions and Refactoring Suggestions`
+<kbd>Ctrl</kbd> + <kbd>T</kbd> to `Show all Symbols`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
