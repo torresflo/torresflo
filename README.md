@@ -82,6 +82,6 @@ My GitHub Stats
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>F12</kbd> to `Go to Definition`
+<kbd>F10</kbd> to `Step Over`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
