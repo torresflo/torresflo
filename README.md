@@ -80,8 +80,8 @@ My GitHub Stats
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio Code
+In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>G</kbd> to `Go to Line...`
+<kbd>^</kbd> + <kbd>Alt</kbd> + <kbd>↲</kbd> to `Full Screen (max window size and reduced menus)`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
