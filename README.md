@@ -67,6 +67,9 @@ My GitHub Stats
 <!-- Powered by https://github.com/torresflo/GitHub-Stats-Me. -->
 <!-- github-stats-box end -->
 
+<!-- language-stats-box start -->
+<!-- language-stats-box end -->
+
 --------------------------------------
 
 ### 📡 How to reach me

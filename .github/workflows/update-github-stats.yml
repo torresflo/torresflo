@@ -13,6 +13,8 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       GH_LOGIN: torresflo
       MARKDOWN_FILE: ../README.md
+      STATS_MAX_LANGUAGES: 6
+      STATS_IGNORED_LANGUAGES: Ruby,Roff
 
     steps:
       - name: Install Python 3.10
