@@ -94,8 +94,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio Code
+In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> to `Format Document`
+<kbd>Ctrl</kbd> + <kbd>^</kbd> + <kbd>L</kbd> to `Delete Line (without copying it)`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
