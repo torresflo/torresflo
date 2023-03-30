@@ -96,6 +96,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>^</kbd> + <kbd>L</kbd> to `Delete Line (without copying it)`
+<kbd>Ctrl</kbd> + <kbd>T</kbd> to `Go to All`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
