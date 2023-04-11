@@ -41,7 +41,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-
+🎲 The Binding of Isaac: Rebirth    🕘 456 hrs 28 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -49,7 +49,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎲 The Binding of Isaac: Rebirth    🕘 454 hrs 43 mins
+🎲 The Binding of Isaac: Rebirth    🕘 456 hrs 28 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
 🚀 Rocket League                    🕘 172 hrs 16 mins
 🪐 Halo Infinite                    🕘 151 hrs 12 mins
