@@ -65,7 +65,7 @@ Want to play something cool? Here are my personal bests!
 <!-- github-stats-box start -->
 My GitHub Stats
 ```text
-⭐ Total Stars:                     40
+⭐ Total Stars:                     37
 ➕ Total Commits:                   259
 🔀 Total Pull Requests:             3
 🚩 Total Issues:                    0
