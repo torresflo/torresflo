@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>F12</kbd> to `Go to Definition`
+<kbd>Ctrl</kbd> + <kbd>1</kbd> + <kbd>F</kbd> to `Go to File`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
