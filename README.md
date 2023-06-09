@@ -102,6 +102,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio Code
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to `Show Command Palette`
+<kbd>Ctrl</kbd> + <kbd>G</kbd> to `Go to Line...`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
