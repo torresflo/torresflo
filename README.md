@@ -103,6 +103,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Alt</kbd> + <kbd>↑</kbd> to `Move Code Up`
+<kbd>Alt</kbd> + <kbd>F6</kbd> to `Next Tool Window`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
