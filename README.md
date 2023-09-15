@@ -100,8 +100,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>^</kbd> + <kbd>Alt</kbd> + <kbd>↲</kbd> to `Full Screen (max window size and reduced menus)`
+<kbd>Ctrl</kbd> + <kbd>.</kbd> to `Quick Fix`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
