@@ -100,8 +100,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>^</kbd> + <kbd>Esc</kbd> to `Close Current Tool Window`
+<kbd>Ctrl</kbd> + <kbd>P</kbd> to `Quick Open, Go to File...`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
