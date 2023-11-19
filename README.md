@@ -102,6 +102,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Page Up</kbd> to `Go to Document to the Left`
+<kbd>Ctrl</kbd> + <kbd>^</kbd> + <kbd>L</kbd> to `Delete Line (without copying it)`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
