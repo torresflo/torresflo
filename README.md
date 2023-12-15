@@ -41,7 +41,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Baldur's Gate 3                  🕘 106 hrs 48 mins
+🎮 Baldur's Gate 3                  🕘 109 hrs 37 mins
 🎮 Balatro Demo                     🕘 0 hrs 41 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
