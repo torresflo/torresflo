@@ -42,6 +42,7 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🎮 Balatro Demo                     🕘 4 hrs 32 mins
+🎮 Tricky Towers                    🕘 10 hrs 14 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
