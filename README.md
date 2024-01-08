@@ -41,7 +41,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Baldur's Gate 3                  🕘 119 hrs 6 mins
+🎮 Baldur's Gate 3                  🕘 120 hrs 53 mins
 🎮 Tricky Towers                    🕘 10 hrs 14 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
