@@ -102,6 +102,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Alt</kbd> + <kbd>F6</kbd> to `Next Tool Window`
+<kbd>Ctrl</kbd> + <kbd>Tab</kbd> to `Most Recent Open Document`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
