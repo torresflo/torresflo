@@ -101,8 +101,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio Code
+In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> to `Go to Symbol...`
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Page Down</kbd> to `Go to Document to the Right`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
