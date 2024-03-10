@@ -100,8 +100,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>Alt</kbd> + <kbd>↓</kbd> to `Move Code Down`
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> to `Format Document`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
