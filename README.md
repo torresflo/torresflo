@@ -102,6 +102,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>\\</kbd>, <kbd>E</kbd> to `Open Error List`
+<kbd>^</kbd> + <kbd>Alt</kbd> + <kbd>F6</kbd> to `Previous Tool Window`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
