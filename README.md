@@ -102,6 +102,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio Code
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd> to `Navigate Editor Group History`
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd> to `Trigger Parameter Hints`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
