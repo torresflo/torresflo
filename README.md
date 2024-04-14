@@ -17,7 +17,7 @@ At Sandfall Interactive:
 
 At Ubisoft:
 - [Beyond Good and Evil 2](https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2), not released yet
-- [Skull & Bones](https://www.ubisoft.com/en-us/game/skull-and-bones), not released yet
+- [Skull & Bones](https://www.ubisoft.com/en-us/game/skull-and-bones), released February 13, 2024
 - [Tom Clancy's Ghost Recon Breakpoint](https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint), released October 4, 2019
 - [Tom Clancy's Ghost Recon Wildlands](https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint/wildlands), released March 7, 2017
 
