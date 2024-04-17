@@ -41,7 +41,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🃏 Balatro                          🕘 12 hrs 48 mins
+🃏 Balatro                          🕘 18 hrs 13 mins
 🚀 Rocket League                    🕘 238 hrs 30 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
