@@ -41,8 +41,8 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🃏 Balatro                          🕘 23 hrs 12 mins
 🪐 Halo Infinite                    🕘 170 hrs 2 mins
+🃏 Balatro                          🕘 23 hrs 12 mins
 🚀 Rocket League                    🕘 239 hrs 58 mins
 🎮 Townscaper                       🕘 10 hrs 22 mins
 ```
