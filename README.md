@@ -41,8 +41,8 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🪐 Halo Infinite                    🕘 176 hrs 16 mins
-🃏 Balatro                          🕘 23 hrs 12 mins
+🪐 Halo Infinite                    🕘 177 hrs 26 mins
+🃏 Balatro                          🕘 24 hrs 30 mins
 🚀 Rocket League                    🕘 239 hrs 58 mins
 🎮 Townscaper                       🕘 10 hrs 22 mins
 ```
@@ -55,7 +55,7 @@ Want to play something cool? Here are my personal bests!
 🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 46 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
 🚀 Rocket League                    🕘 239 hrs 58 mins
-🪐 Halo Infinite                    🕘 176 hrs 16 mins
+🪐 Halo Infinite                    🕘 177 hrs 26 mins
 🎪 Fall Guys                        🕘 133 hrs 27 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
