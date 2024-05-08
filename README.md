@@ -43,8 +43,6 @@ Want to play something cool? Here are my personal bests!
 ```text
 🪐 Halo Infinite                    🕘 177 hrs 26 mins
 🃏 Balatro                          🕘 25 hrs 56 mins
-🚀 Rocket League                    🕘 239 hrs 58 mins
-🎮 Townscaper                       🕘 10 hrs 22 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
