@@ -42,7 +42,7 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🪐 Halo Infinite                    🕘 180 hrs 13 mins
-🃏 Balatro                          🕘 25 hrs 56 mins
+🃏 Balatro                          🕘 26 hrs 46 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
