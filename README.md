@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>^</kbd> + <kbd>Alt</kbd> + <kbd>↲</kbd> to `Full Screen (max window size and reduced menus)`
+<kbd>Ctrl</kbd> + <kbd>5</kbd> to `Run`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
