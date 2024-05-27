@@ -41,8 +41,8 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🪐 Halo Infinite                    🕘 183 hrs 37 mins
 🗡️ Baldur's Gate 3                  🕘 125 hrs 20 mins
+🪐 Halo Infinite                    🕘 183 hrs 37 mins
 🃏 Balatro                          🕘 26 hrs 46 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
