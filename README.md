@@ -43,6 +43,7 @@ Want to play something cool? Here are my personal bests!
 ```text
 🗡️ Baldur's Gate 3                  🕘 125 hrs 20 mins
 🪐 Halo Infinite                    🕘 183 hrs 37 mins
+🚀 Rocket League                    🕘 242 hrs 36 mins
 🃏 Balatro                          🕘 26 hrs 46 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
@@ -53,7 +54,7 @@ Want to play something cool? Here are my personal bests!
 ```text
 🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 46 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
-🚀 Rocket League                    🕘 239 hrs 58 mins
+🚀 Rocket League                    🕘 242 hrs 36 mins
 🪐 Halo Infinite                    🕘 183 hrs 37 mins
 🎪 Fall Guys                        🕘 133 hrs 27 mins
 ```
