@@ -43,7 +43,6 @@ Want to play something cool? Here are my personal bests!
 ```text
 🚀 Rocket League                    🕘 245 hrs 21 mins
 🗡️ Baldur's Gate 3                  🕘 125 hrs 20 mins
-🪐 Halo Infinite                    🕘 183 hrs 37 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
