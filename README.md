@@ -42,7 +42,7 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🚀 Rocket League                    🕘 245 hrs 21 mins
-🗡️ Baldur's Gate 3                  🕘 125 hrs 20 mins
+🗡️ Baldur's Gate 3                  🕘 127 hrs 31 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
