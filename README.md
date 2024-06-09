@@ -3,9 +3,10 @@
 Welcome to my (modest) GitHub page!
 
 I'm Florian, a **senior gameplay programmer** currently working at **Sandfall Interactive** (Montpellier, France). I previously worked at **Ubisoft** (Montpellier and Singapore) for 6 years.
+
 I mainly code in **C++**, but I am trying new stuff and always learning. 
 You will find here the different projects I am working and worked on.
-One of my lastest project is a fan game of Pokémon, try it out [here](https://torresflo.github.io/Pokemon-Obsidian/)!
+One of my lastest project is a fan game of Pokémon, [try it out here](https://torresflo.github.io/Pokemon-Obsidian/)!
 
 --------------------------------------
 
@@ -13,13 +14,14 @@ One of my lastest project is a fan game of Pokémon, try it out [here](https://t
 I worked on several games during my career, here there are!
 
 At Sandfall Interactive:
-- [Project W](https://www.sandfall.co/), not released yet
+- [Clair Obscur: Expedition 33](https://www.expedition33.com/), not released yet. 
+We just released the reveal trailer of the game, [check it out here](https://www.youtube.com/watch?v=IDyqGZy78Ng)!
 
 At Ubisoft:
-- [Beyond Good and Evil 2](https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2), not released yet
-- [Skull & Bones](https://www.ubisoft.com/en-us/game/skull-and-bones), released February 13, 2024
-- [Tom Clancy's Ghost Recon Breakpoint](https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint), released October 4, 2019
-- [Tom Clancy's Ghost Recon Wildlands](https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint/wildlands), released March 7, 2017
+- [Beyond Good and Evil 2](https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2), not released yet (maybe one day?).
+- [Skull & Bones](https://www.ubisoft.com/en-us/game/skull-and-bones), released February 13, 2024.
+- [Tom Clancy's Ghost Recon Breakpoint](https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint), released October 4, 2019.
+- [Tom Clancy's Ghost Recon Wildlands](https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint/wildlands), released March 7, 2017.
 
 --------------------------------------
 
