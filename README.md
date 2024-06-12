@@ -104,8 +104,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio Code
+In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> to `New window/instance`
+<kbd>Alt</kbd> + <kbd>F6</kbd> to `Next Tool Window`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
