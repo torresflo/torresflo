@@ -43,8 +43,8 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🚀 Rocket League                    🕘 246 hrs 21 mins
 🪐 Halo Infinite                    🕘 188 hrs 51 mins
+🚀 Rocket League                    🕘 246 hrs 21 mins
 🗡️ Baldur's Gate 3                  🕘 127 hrs 31 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
