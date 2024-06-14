@@ -106,6 +106,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>F11</kbd> to `Step Into`
+<kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>A</kbd> to `Run All Tests`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
