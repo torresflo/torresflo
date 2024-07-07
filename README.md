@@ -43,6 +43,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
+🎮 The Case of the Golden Idol      🕘 3 hrs 21 mins
 🪐 Halo Infinite                    🕘 191 hrs 39 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
