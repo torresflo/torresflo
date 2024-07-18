@@ -105,6 +105,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>^</kbd> + <kbd>F11</kbd> to `Step Out`
+<kbd>Ctrl</kbd> + <kbd>^</kbd> + <kbd>L</kbd> to `Delete Line (without copying it)`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
