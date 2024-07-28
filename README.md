@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>[</kbd>, <kbd>S</kbd> to `Select Active File in Solution Explorer`
+<kbd>Ctrl</kbd> + <kbd>-</kbd> to `Navigate Backward`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
