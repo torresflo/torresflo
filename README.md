@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Page Up</kbd> to `Go to Document to the Left`
+<kbd>Ctrl</kbd> + <kbd>T</kbd> to `Go to All`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
