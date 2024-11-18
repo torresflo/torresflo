@@ -43,7 +43,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 The Rise of the Golden Idol      🕘 4 hrs 0 mins
+🎮 The Rise of the Golden Idol      🕘 6 hrs 34 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
