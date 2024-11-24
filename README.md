@@ -44,6 +44,7 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🎮 The Rise of the Golden Idol      🕘 6 hrs 34 mins
+🪐 Halo Infinite                    🕘 200 hrs 50 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -54,7 +55,7 @@ Want to play something cool? Here are my personal bests!
 🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 46 mins
 🚀 Rocket League                    🕘 247 hrs 58 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
-🪐 Halo Infinite                    🕘 198 hrs 3 mins
+🪐 Halo Infinite                    🕘 200 hrs 50 mins
 🎪 Fall Guys                        🕘 133 hrs 27 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
