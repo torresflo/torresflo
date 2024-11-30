@@ -45,6 +45,7 @@ Want to play something cool? Here are my personal bests!
 ```text
 🎮 The Rise of the Golden Idol      🕘 6 hrs 34 mins
 🪐 Halo Infinite                    🕘 200 hrs 50 mins
+🚀 Rocket League                    🕘 250 hrs 16 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -53,7 +54,7 @@ Want to play something cool? Here are my personal bests!
 🎮 Steam playtime leaderboard
 ```text
 🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 46 mins
-🚀 Rocket League                    🕘 247 hrs 58 mins
+🚀 Rocket League                    🕘 250 hrs 16 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
 🪐 Halo Infinite                    🕘 200 hrs 50 mins
 🎪 Fall Guys                        🕘 133 hrs 27 mins
