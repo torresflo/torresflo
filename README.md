@@ -44,7 +44,6 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🪐 Halo Infinite                    🕘 200 hrs 50 mins
-🎮 The Rise of the Golden Idol      🕘 6 hrs 34 mins
 🚀 Rocket League                    🕘 250 hrs 16 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
