@@ -43,8 +43,8 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🪐 Halo Infinite                    🕘 206 hrs 2 mins
 🚀 Rocket League                    🕘 253 hrs 45 mins
+🪐 Halo Infinite                    🕘 206 hrs 2 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
