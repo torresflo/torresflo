@@ -45,6 +45,7 @@ Want to play something cool? Here are my personal bests!
 ```text
 🪐 Halo Infinite                    🕘 206 hrs 2 mins
 🚀 Rocket League                    🕘 253 hrs 45 mins
+🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 47 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -52,7 +53,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 46 mins
+🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 47 mins
 🚀 Rocket League                    🕘 253 hrs 45 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
 🪐 Halo Infinite                    🕘 206 hrs 2 mins
