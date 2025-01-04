@@ -43,7 +43,6 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🚀 Rocket League                    🕘 253 hrs 45 mins
 🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 47 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
