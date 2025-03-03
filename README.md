@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Alt</kbd> + <kbd>F6</kbd> to `Next Tool Window`
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd> to `Open Breakpoints`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
