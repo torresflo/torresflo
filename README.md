@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>1</kbd> + <kbd>M</kbd> to `Go to Member`
+<kbd>Ctrl</kbd> + <kbd>-</kbd> to `Navigate Backward`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
