@@ -43,7 +43,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-
+🎪 Fall Guys                        🕘 136 hrs 36 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -55,7 +55,7 @@ Want to play something cool? Here are my personal bests!
 🚀 Rocket League                    🕘 261 hrs 52 mins
 🌍 Terraria                         🕘 243 hrs 37 mins
 🪐 Halo Infinite                    🕘 212 hrs 16 mins
-🎪 Fall Guys                        🕘 133 hrs 27 mins
+🎪 Fall Guys                        🕘 136 hrs 36 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
