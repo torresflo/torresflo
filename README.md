@@ -45,6 +45,7 @@ Want to play something cool? Here are my personal bests!
 ```text
 🚀 Rocket League                    🕘 265 hrs 40 mins
 🪐 Halo Infinite                    🕘 215 hrs 1 mins
+❓ Unknown Game                     🕘 2 hrs 4 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
