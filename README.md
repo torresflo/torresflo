@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>[</kbd>, <kbd>S</kbd> to `Select Active File in Solution Explorer`
+<kbd>^</kbd> + <kbd>Alt</kbd> + <kbd>F6</kbd> to `Previous Tool Window`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
