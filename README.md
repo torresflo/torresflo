@@ -44,6 +44,7 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🎮 REMATCH                          🕘 23 hrs 5 mins
+🎮 Battlefield™ 6 Open Beta         🕘 0 hrs 54 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
