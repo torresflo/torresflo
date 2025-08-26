@@ -102,8 +102,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio Code
+In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd> to `Trigger Parameter Hints`
+<kbd>Alt</kbd> + <kbd>F6</kbd> to `Next Tool Window`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
