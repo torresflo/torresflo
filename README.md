@@ -44,7 +44,7 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🎮 No Man's Sky                     🕘 10 hrs 22 mins
-🎮 REMATCH                          🕘 28 hrs 56 mins
+🎮 REMATCH                          🕘 29 hrs 48 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
