@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio Code
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> to `New window/instance`
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to `Show Command Palette`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
