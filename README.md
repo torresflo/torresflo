@@ -104,6 +104,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>^</kbd> + <kbd>Alt</kbd> + <kbd>F6</kbd> to `Previous Tool Window`
+<kbd>Alt</kbd> + <kbd>↲</kbd> to `Quick Actions and Refactoring Suggestions`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
