@@ -43,9 +43,9 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
+🎮 The Jackbox Survey Scramble      🕘 2 hrs 55 mins
+🎮 CloverPit                        🕘 2 hrs 39 mins
 🎮 No Man's Sky                     🕘 29 hrs 0 mins
-🎮 CloverPit                        🕘 1 hrs 38 mins
-🎮 The Jackbox Survey Scramble      🕘 1 hrs 19 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
