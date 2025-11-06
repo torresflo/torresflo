@@ -45,6 +45,7 @@ Want to play something cool? Here are my personal bests!
 ```text
 🎮 CloverPit                        🕘 3 hrs 17 mins
 🎮 The Jackbox Survey Scramble      🕘 2 hrs 55 mins
+🎮 Battlefield™ 6                   🕘 2 hrs 39 mins
 🎮 No Man's Sky                     🕘 29 hrs 0 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
