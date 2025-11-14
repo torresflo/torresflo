@@ -45,7 +45,6 @@ Want to play something cool? Here are my personal bests!
 ```text
 🎮 The Jackbox Survey Scramble      🕘 5 hrs 36 mins
 🎮 Battlefield™ 6                   🕘 2 hrs 39 mins
-🎮 CloverPit                        🕘 3 hrs 17 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
