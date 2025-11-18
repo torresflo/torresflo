@@ -14,8 +14,7 @@ One of my lastest project is a fan game of Pokémon, [try it out here](https://t
 I worked on several games during my career, here there are!
 
 At Sandfall Interactive:
-- [Clair Obscur: Expedition 33](https://www.expedition33.com/), not released yet. 
-We just released the reveal trailer of the game, [check it out here](https://www.youtube.com/watch?v=IDyqGZy78Ng)!
+- [Clair Obscur: Expedition 33](https://www.expedition33.com/), released April 24, 2025.
 
 At Ubisoft:
 - [Beyond Good and Evil 2](https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2), not released yet (maybe one day?).
