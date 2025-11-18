@@ -43,8 +43,8 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
+🎮 Battlefield™ 6                   🕘 5 hrs 37 mins
 🎮 The Jackbox Survey Scramble      🕘 5 hrs 36 mins
-🎮 Battlefield™ 6                   🕘 2 hrs 39 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
