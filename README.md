@@ -43,8 +43,8 @@ Want to play something cool? Here are my personal bests!
 🎮 Recently played Steam games
 ```text
 🎮 Battlefield™ 6                   🕘 5 hrs 37 mins
+🎮 No Man's Sky                     🕘 31 hrs 56 mins
 🎮 The Jackbox Survey Scramble      🕘 5 hrs 36 mins
-🎮 No Man's Sky                     🕘 30 hrs 1 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
