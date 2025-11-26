@@ -42,7 +42,7 @@ Want to play something cool? Here are my personal bests!
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 No Man's Sky                     🕘 63 hrs 40 mins
+🎮 No Man's Sky                     🕘 69 hrs 5 mins
 🎮 Battlefield™ 6                   🕘 5 hrs 37 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
