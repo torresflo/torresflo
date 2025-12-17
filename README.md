@@ -103,6 +103,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>^</kbd> + <kbd>Alt</kbd> + <kbd>F6</kbd> to `Previous Tool Window`
+<kbd>Ctrl</kbd> + <kbd>-</kbd> to `Navigate Backward`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
