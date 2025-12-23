@@ -101,8 +101,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>Ctrl</kbd> + <kbd>\\</kbd>, <kbd>E</kbd> to `Open Error List`
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd> to `Close window/instance`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
