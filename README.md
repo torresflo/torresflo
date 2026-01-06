@@ -103,6 +103,6 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>^</kbd> + <kbd>L</kbd> to `Delete Line (without copying it)`
+<kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>S</kbd> to `Surround with (... if/try/foreach)`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
