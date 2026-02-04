@@ -14,7 +14,7 @@ One of my lastest project is a fan game of Pokémon, [try it out here](https://t
 I worked on several games during my career, here there are!
 
 At Sandfall Interactive:
-- [Clair Obscur: Expedition 33](https://www.expedition33.com/), released April 24, 2025.
+- [Clair Obscur: Expedition 33](https://www.expedition33.com/), released April 24, 2025. ✨GOTY 2025✨
 
 At Ubisoft:
 - [Beyond Good and Evil 2](https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2), not released yet (maybe one day?).
@@ -28,14 +28,15 @@ At Ubisoft:
 Want to play something cool? Here are my personal bests!
 
 ```text
-⚔️ Tales of Symphonia               📅 2003
-🧬 Pokémon Gold                     📅 1999
-🪐 Halo 3                           📅 2007
-🌌 Portal 2                         📅 2011
-🎲 The Binding of Isaac Rebirth     📅 2014
-🗡️ Dishonored 2                     📅 2016
-📡 Titanfall 2                      📅 2016
-🎓 Persona 5                        📅 2017
+⚔️ Tales of Symphonia                          📅 2003
+🌙 Pokémon Gold                                📅 1999
+🔫 Halo 3                                      📅 2007
+🪂 The Legend of Zelda: Tears of the Kingdom   📅 2023
+🌀 Portal 2                                    📅 2011
+🗡️ Dishonored 2                                📅 2016
+🤖 Titanfall 2                                 📅 2016
+🎲 Baldur’s Gate 3                             📅 2023
+🎭 Persona 5                                   📅 2017
 ```
 ### 🕘 My Steam leaderboard
 
@@ -92,9 +93,10 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 --------------------------------------
 
 ### 📡 How to reach me
-<a href="https://github.com/torresflo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/floriantorres/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/_torresflo_"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/torresflo)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/floriantorres/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/torresflo.bsky.social)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_torresflo_/)
 
 --------------------------------------
 
