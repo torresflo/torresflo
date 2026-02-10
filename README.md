@@ -31,11 +31,16 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-God of War (2018)
-📅 Released April 20, 2018
-🏗️ Created by Santa Monica Studio
+Titanfall 2
+📅 Released October 28, 2016
+🏗️ Created by Respawn Entertainment
 
-God of War (2018) reinvents the long-running series with a more grounded narrative and a new mythological setting inspired by Norse legends. Players follow Kratos and his son Atreus on an emotional journey that blends intense combat with character-driven storytelling. The game is praised for its cinematic presentation, refined combat system, and mature exploration of fatherhood.
+Titanfall 2 combines fast-paced first-person shooter combat with fluid
+parkour movement and massive mech battles. Its single-player campaign
+is praised for inventive level design and the emotional bond between
+the pilot and their Titan, BT-7274. The multiplayer expands on the
+original with deeper customization and refined mechanics, making it a
+standout in the genre.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
