@@ -24,20 +24,14 @@ At Ubisoft:
 
 --------------------------------------
 
-### ⭐ My favorite games
-Want to play something cool? Here are my personal bests!
+### ⭐ My favorite game(s)
+Want to play something cool? Here is one of my favorite video game!
 
-```text
-⚔️ Tales of Symphonia                          📅 2003
-🌙 Pokémon Gold                                📅 1999
-🔫 Halo 3                                      📅 2007
-🪂 The Legend of Zelda: Tears of the Kingdom   📅 2023
-🌀 Portal 2                                    📅 2011
-🗡️ Dishonored 2                                📅 2016
-🤖 Titanfall 2                                 📅 2016
-🎲 Baldur’s Gate 3                             📅 2023
-🎭 Persona 5                                   📅 2017
-```
+This is updated every day, come back tomorrow for another great pick.
+
+<!-- video-game-box start -->
+<!-- video-game-box end -->
+
 ### 🕘 My Steam leaderboard
 
 <!-- steam-box-recent start -->

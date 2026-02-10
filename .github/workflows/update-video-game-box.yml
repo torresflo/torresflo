@@ -1,0 +1,37 @@
+name: Update favorite video game box
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update-video-game-box
+    runs-on: ubuntu-latest
+    env:
+      MARKDOWN_FILE: ../README.md
+
+    steps:
+      - name: Install Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Clone and run Favorite-Game-Box
+        run: |-
+          git clone https://github.com/torresflo/Favorite-Game-Box.git
+          cd Favorite-Game-Box/ && python main.py
+          cd ../ && rm -rf Favorite-Game-Box/
+      - name: Commit and push
+        run: |-
+          git config --global user.email "bot@github.com" && git config --global user.name "Favorite-Game-Bot"
+          git config --global pull.rebase false
+          git diff
+          git add README.md && git commit -m "Update shortcut" || exit 0
+          git pull && git push
