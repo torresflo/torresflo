@@ -30,12 +30,14 @@ Want to play something cool? Here is one of my favorite video game!
 This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
-<div style="border:1px solid #30363d; border-radius:8px; padding:24px; background:#0d1117;">
-<h2>Tales of Symphonia</h2>
-<strong>📅 Release</strong><br/>August 29, 2003
-<strong>🏗️ Developer</strong><br/>Namco Tales Studio
-<strong>📖 Description</strong><br/>Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd Irving and his companions on a journey to regenerate a dying world. Featuring real-time combat through the Linear Motion Battle System, the game blends action and strategy while emphasizing character relationships and moral choices. Its story explores themes of sacrifice, prejudice, and what it truly means to save the world.
-</div>
+```
+Tales of Symphonia
+
+📅 Released August 29, 2003
+🏗️ Created by Namco Tales Studio
+
+Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd Irving and his companions on a journey to regenerate a dying world. Featuring real-time combat through the Linear Motion Battle System, the game blends action and strategy while emphasizing character relationships and moral choices. Its story explores themes of sacrifice, prejudice, and what it truly means to save the world.
+```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
 

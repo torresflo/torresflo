@@ -33,5 +33,5 @@ jobs:
           git config --global user.email "bot@github.com" && git config --global user.name "Favorite-Game-Bot"
           git config --global pull.rebase false
           git diff
-          git add README.md && git commit -m "Update shortcut" || exit 0
+          git add README.md && git commit -m "Update favorite game" || exit 0
           git pull && git push
