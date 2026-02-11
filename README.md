@@ -115,4 +115,21 @@ In Visual Studio Code
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> to `Go to Symbol...`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
-<!-- shortcut-box end -->
+<!-- shortcut-box end --<!-- steam-box start -->
+🎮 Recently played Steam games
+
+```text
+🎮 CloverPit                         🕘 3 hours 19 minutes
+```
+
+🎮 Steam playtime leaderboard
+
+```text
+🎲 The Binding of Isaac: Rebirth     🕘 458 hours 47 minutes
+🚀 Rocket League                     🕘 265 hours 40 minutes
+🌍 Terraria                          🕘 243 hours 37 minutes
+🪐 Halo Infinite                     🕘 215 hours 1 minute
+🎪 Fall Guys                         🕘 136 hours 36 minutes
+```
+<!-- Powered by https://github.com/torresflo/Steam-Box-Python. -->
+>
