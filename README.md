@@ -48,25 +48,8 @@ replayability and discovery.
 
 ### 🕘 My Steam leaderboard
 
-<!-- steam-box-recent start -->
-🎮 Recently played Steam games
-```text
-
-```
-<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
-<!-- steam-box-recent end -->
-
-<!-- steam-box-playtime start -->
-🎮 Steam playtime leaderboard
-```text
-🎲 The Binding of Isaac: Rebirth    🕘 458 hrs 47 mins
-🚀 Rocket League                    🕘 265 hrs 40 mins
-🌍 Terraria                         🕘 243 hrs 37 mins
-🪐 Halo Infinite                    🕘 215 hrs 1 mins
-🎪 Fall Guys                        🕘 136 hrs 36 mins
-```
-<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
-<!-- steam-box-playtime end -->
+<!-- steam-box start -->
+<!-- steam-box end -->
 
 --------------------------------------
 
@@ -115,21 +98,4 @@ In Visual Studio Code
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> to `Go to Symbol...`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
-<!-- shortcut-box end --<!-- steam-box start -->
-🎮 Recently played Steam games
-
-```text
-🎮 CloverPit                         🕘 3 hours 19 minutes
-```
-
-🎮 Steam playtime leaderboard
-
-```text
-🎲 The Binding of Isaac: Rebirth     🕘 458 hours 47 minutes
-🚀 Rocket League                     🕘 265 hours 40 minutes
-🌍 Terraria                          🕘 243 hours 37 minutes
-🪐 Halo Infinite                     🕘 215 hours 1 minute
-🎪 Fall Guys                         🕘 136 hours 36 minutes
-```
-<!-- Powered by https://github.com/torresflo/Steam-Box-Python. -->
->
+<!-- shortcut-box end -->
