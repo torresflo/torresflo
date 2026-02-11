@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Tales of Symphonia
+Baldur’s Gate 3
 
-📅 Released August 29, 2003
-🏗️ Created by Namco Tales Studio
-🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
+📅 Released August 3, 2023
+🏗️ Created by Larian Studios
+🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
 
-Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
-Irving and his companions on a journey to regenerate a dying world. Featuring
-real-time combat through the Linear Motion Battle System, the game blends action
-and strategy while emphasizing character relationships and moral choices. Its
-story explores themes of sacrifice, prejudice, and what it truly means to save
-the world.
+Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
+offering deep narrative choices and turn-based tactical combat. Players create
+their own character or choose from origin heroes, shaping the story through
+dialogue, actions, and combat decisions. The game is known for its reactivity,
+freedom, and faithful adaptation of tabletop RPG systems.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
