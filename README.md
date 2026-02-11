@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Binding of Isaac: Rebirth
+Tales of Symphonia
 
-📅 Released November 4, 2014
-🏗️ Created by Nicalis
-🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
+📅 Released August 29, 2003
+🏗️ Created by Namco Tales Studio
+🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
 
-The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
-twin-stick shooters. Players control Isaac as he descends into procedurally
-generated dungeons filled with enemies, items, and disturbing imagery. Known for
-its challenging gameplay and massive item variety, the game offers near-endless
-replayability and discovery.
+Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
+Irving and his companions on a journey to regenerate a dying world. Featuring
+real-time combat through the Linear Motion Battle System, the game blends action
+and strategy while emphasizing character relationships and moral choices. Its
+story explores themes of sacrifice, prejudice, and what it truly means to save
+the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
