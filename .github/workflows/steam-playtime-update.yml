@@ -1,40 +1,40 @@
-name: Update steam playtime
+name: Update Steam play time
 
 on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Update-steam-playtime
+    name: Update-Steam-Play-Time
     runs-on: ubuntu-latest
     env:
+      MARKDOWN_FILE: ../README.md
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
-      UPDATE_OPTION: MARKDOWN
-      MARKDOWN_FILE: README.md
-      STEAM_OPTION: ALLTIME_AND_RECENT
-
     steps:
-      - name: Set up Go 1.x
-        uses: actions/setup-go@v2
+      - name: Install Python 3.10
+        uses: actions/setup-python@v4
         with:
-          go-version: ^1.14
-        id: go
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
       - name: Check out repo
         uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
-      - name: Clone and run steam-box
+      - name: Clone and run Steam-Box-Python
         run: |-
-          git clone https://github.com/torresflo/steam-box-for-readme.git
-          cd steam-box-for-readme && go build -o steam ./cmd/box/main.go
-          mv ./steam ../ && cd .. && rm -rf steam-box-for-readme/
+          git clone https://github.com/torresflo/Steam-Box-Python.git
+          cd Steam-Box-Python/ && python main.py
+          cd ../ && rm -rf Steam-Box-Python/
       - name: Commit and push
         run: |-
-          ./steam
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
           git config --global pull.rebase false
           git diff
-          git add README.md && git commit -m "Update Steam playtime" || exit 0
+          git add README.md && git commit -m "Update Steam play time" || exit 0
           git pull && git push
