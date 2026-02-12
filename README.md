@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Baldur’s Gate 3
+Halo 3
 
-📅 Released August 3, 2023
-🏗️ Created by Larian Studios
-🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
+📅 Released September 25, 2007
+🏗️ Created by Bungie
+🕹️ Playable on Xbox 360, Xbox One, Xbox Series X|S, PC
 
-Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
-offering deep narrative choices and turn-based tactical combat. Players create
-their own character or choose from origin heroes, shaping the story through
-dialogue, actions, and combat decisions. The game is known for its reactivity,
-freedom, and faithful adaptation of tabletop RPG systems.
+Halo 3 concludes the original Halo trilogy, placing players once again in the
+role of the Master Chief as humanity fights for survival against the Covenant
+and the Flood. The game is known for its cinematic storytelling, refined
+gunplay, and expansive multiplayer modes. It became a cultural phenomenon thanks
+to its cooperative campaign, competitive online play, and robust Forge mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
