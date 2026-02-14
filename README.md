@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Pokémon Gold
+FTL: Faster Than Light
 
-📅 Released November 21, 1999
-🏗️ Created by Game Freak
-🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
+📅 Released September 14, 2012
+🏗️ Created by Subset Games
+🕹️ Playable on PC, iOS
 
-Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
-the introduction of a real-time day and night system. Players explore the Johto
-region while collecting Pokémon, battling Gym Leaders, and thwarting Team
-Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
-the surprise return to the Kanto region after completing the main story.
+FTL: Faster Than Light is a roguelike strategy game where players command a
+spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
+forcing players to make tough decisions about crew management, ship upgrades,
+and combat tactics. The game is celebrated for its tension, replayability, and
+emergent storytelling.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
