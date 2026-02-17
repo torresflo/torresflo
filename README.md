@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-God of War (2018)
+The Legend of Zelda: Tears of the Kingdom
 
-📅 Released April 20, 2018
-🏗️ Created by Santa Monica Studio
-🕹️ Playable on PlayStation 4, PlayStation 5, PC
+📅 Released May 12, 2023
+🏗️ Created by Nintendo
+🕹️ Playable on Nintendo Switch
 
-God of War (2018) reinvents the long-running series with a more grounded
-narrative and a new mythological setting inspired by Norse legends. Players
-follow Kratos and his son Atreus on an emotional journey that blends intense
-combat with character-driven storytelling. The game is praised for its cinematic
-presentation, refined combat system, and mature exploration of fatherhood.
+The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
+of Breath of the Wild, introducing new abilities that allow players to
+manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
+emphasizes creativity and player-driven problem solving while delivering an epic
+story about the origins of Hyrule and an ancient threat. Its freedom of
+exploration and systemic design set a new benchmark for open-world games.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
