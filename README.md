@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: Tears of the Kingdom
+Pokémon Gold
 
-📅 Released May 12, 2023
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released November 21, 1999
+🏗️ Created by Game Freak
+🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
 
-The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
-of Breath of the Wild, introducing new abilities that allow players to
-manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
-emphasizes creativity and player-driven problem solving while delivering an epic
-story about the origins of Hyrule and an ancient threat. Its freedom of
-exploration and systemic design set a new benchmark for open-world games.
+Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
+the introduction of a real-time day and night system. Players explore the Johto
+region while collecting Pokémon, battling Gym Leaders, and thwarting Team
+Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
+the surprise return to the Kanto region after completing the main story.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
