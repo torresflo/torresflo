@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Pokémon Gold
+Persona 5
 
-📅 Released November 21, 1999
-🏗️ Created by Game Freak
-🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
+📅 Released September 15, 2016
+🏗️ Created by Atlus
+🕹️ Playable on PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, PC
 
-Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
-the introduction of a real-time day and night system. Players explore the Johto
-region while collecting Pokémon, battling Gym Leaders, and thwarting Team
-Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
-the surprise return to the Kanto region after completing the main story.
+Persona 5 is a stylish Japanese role-playing game that follows a group of high
+school students who secretly explore supernatural palaces to change corrupt
+hearts. Blending turn-based combat with life simulation elements, the game
+balances dungeon crawling with daily activities and social relationships. Its
+bold art style, memorable soundtrack, and themes of rebellion and justice earned
+it widespread acclaim.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
