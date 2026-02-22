@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Titanfall 2
+Fable
 
-📅 Released October 28, 2016
-🏗️ Created by Respawn Entertainment
-🕹️ Playable on PC, PlayStation 4, Xbox One
+📅 Released September 14, 2004
+🏗️ Created by Lionhead Studios
+🕹️ Playable on Xbox, PC, Xbox 360
 
-Titanfall 2 combines fast-paced first-person shooter combat with fluid parkour
-movement and massive mech battles. Its single-player campaign is praised for
-inventive level design and the emotional bond between the pilot and their Titan,
-BT-7274. The multiplayer expands on the original with deeper customization and
-refined mechanics, making it a standout in the genre.
+Fable is an action role-playing game set in the fantasy world of Albion, where
+player choices directly shape the hero’s appearance and morality. The game
+emphasizes freedom, allowing players to decide how their character behaves and
+is perceived by others. Its blend of humor, storytelling, and consequence-driven
+gameplay made it a memorable RPG experience.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
