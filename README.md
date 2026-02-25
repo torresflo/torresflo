@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Fable
+Halo 3
 
-📅 Released September 14, 2004
-🏗️ Created by Lionhead Studios
-🕹️ Playable on Xbox, PC, Xbox 360
+📅 Released September 25, 2007
+🏗️ Created by Bungie
+🕹️ Playable on Xbox 360, Xbox One, Xbox Series X|S, PC
 
-Fable is an action role-playing game set in the fantasy world of Albion, where
-player choices directly shape the hero’s appearance and morality. The game
-emphasizes freedom, allowing players to decide how their character behaves and
-is perceived by others. Its blend of humor, storytelling, and consequence-driven
-gameplay made it a memorable RPG experience.
+Halo 3 concludes the original Halo trilogy, placing players once again in the
+role of the Master Chief as humanity fights for survival against the Covenant
+and the Flood. The game is known for its cinematic storytelling, refined
+gunplay, and expansive multiplayer modes. It became a cultural phenomenon thanks
+to its cooperative campaign, competitive online play, and robust Forge mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
