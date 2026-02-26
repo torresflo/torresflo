@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Halo 3
+The Legend of Zelda: Tears of the Kingdom
 
-📅 Released September 25, 2007
-🏗️ Created by Bungie
-🕹️ Playable on Xbox 360, Xbox One, Xbox Series X|S, PC
+📅 Released May 12, 2023
+🏗️ Created by Nintendo
+🕹️ Playable on Nintendo Switch
 
-Halo 3 concludes the original Halo trilogy, placing players once again in the
-role of the Master Chief as humanity fights for survival against the Covenant
-and the Flood. The game is known for its cinematic storytelling, refined
-gunplay, and expansive multiplayer modes. It became a cultural phenomenon thanks
-to its cooperative campaign, competitive online play, and robust Forge mode.
+The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
+of Breath of the Wild, introducing new abilities that allow players to
+manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
+emphasizes creativity and player-driven problem solving while delivering an epic
+story about the origins of Hyrule and an ancient threat. Its freedom of
+exploration and systemic design set a new benchmark for open-world games.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
