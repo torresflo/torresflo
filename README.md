@@ -31,18 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: Tears of the Kingdom
+Tales of Symphonia
 
-📅 Released May 12, 2023
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released August 29, 2003
+🏗️ Created by Namco Tales Studio
+🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
 
-The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
-of Breath of the Wild, introducing new abilities that allow players to
-manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
-emphasizes creativity and player-driven problem solving while delivering an epic
-story about the origins of Hyrule and an ancient threat. Its freedom of
-exploration and systemic design set a new benchmark for open-world games.
+Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
+Irving and his companions on a journey to regenerate a dying world. Featuring
+real-time combat through the Linear Motion Battle System, the game blends action
+and strategy while emphasizing character relationships and moral choices. Its
+story explores themes of sacrifice, prejudice, and what it truly means to save
+the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
@@ -111,8 +111,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio Code
+In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>F</kbd> to `Format Selection`
+<kbd>F9</kbd> to `Toggle Breakpoint`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
