@@ -53,7 +53,7 @@ exploration and systemic design set a new benchmark for open-world games.
 🎮 Recently played Steam games
 
 ```text
-🎮 CloverPit                         🕘 3 hours 19 minutes
+No recently played games 😢
 ```
 
 🎮 Steam playtime leaderboard
