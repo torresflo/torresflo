@@ -111,8 +111,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>F9</kbd> to `Toggle Breakpoint`
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> to `New window/instance`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
