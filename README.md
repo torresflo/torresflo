@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Tales of Symphonia
+No Man's Sky
 
-📅 Released August 29, 2003
-🏗️ Created by Namco Tales Studio
-🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
+📅 Released August 9, 2016
+🏗️ Created by Hello Games
+🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
 
-Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
-Irving and his companions on a journey to regenerate a dying world. Featuring
-real-time combat through the Linear Motion Battle System, the game blends action
-and strategy while emphasizing character relationships and moral choices. Its
-story explores themes of sacrifice, prejudice, and what it truly means to save
-the world.
+No Man's Sky is a science fiction exploration game set in a procedurally
+generated universe with billions of planets. Players can explore, trade, fight,
+and survive while uncovering the mysteries of the cosmos. Over time, extensive
+updates have expanded the game with base building, multiplayer, story content,
+and deep systems that transformed it into a rich and expansive space sandbox.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
