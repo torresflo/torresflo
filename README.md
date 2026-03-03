@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-No Man's Sky
+Halo 3
 
-📅 Released August 9, 2016
-🏗️ Created by Hello Games
-🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
+📅 Released September 25, 2007
+🏗️ Created by Bungie
+🕹️ Playable on Xbox 360, Xbox One, Xbox Series X|S, PC
 
-No Man's Sky is a science fiction exploration game set in a procedurally
-generated universe with billions of planets. Players can explore, trade, fight,
-and survive while uncovering the mysteries of the cosmos. Over time, extensive
-updates have expanded the game with base building, multiplayer, story content,
-and deep systems that transformed it into a rich and expansive space sandbox.
+Halo 3 concludes the original Halo trilogy, placing players once again in the
+role of the Master Chief as humanity fights for survival against the Covenant
+and the Flood. The game is known for its cinematic storytelling, refined
+gunplay, and expansive multiplayer modes. It became a cultural phenomenon thanks
+to its cooperative campaign, competitive online play, and robust Forge mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
