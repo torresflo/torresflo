@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Halo 3
+Super Mario Galaxy
 
-📅 Released September 25, 2007
-🏗️ Created by Bungie
-🕹️ Playable on Xbox 360, Xbox One, Xbox Series X|S, PC
+📅 Released November 1, 2007
+🏗️ Created by Nintendo
+🕹️ Playable on Wii, Nintendo Switch
 
-Halo 3 concludes the original Halo trilogy, placing players once again in the
-role of the Master Chief as humanity fights for survival against the Covenant
-and the Flood. The game is known for its cinematic storytelling, refined
-gunplay, and expansive multiplayer modes. It became a cultural phenomenon thanks
-to its cooperative campaign, competitive online play, and robust Forge mode.
+Super Mario Galaxy reimagines classic Mario platforming by sending players
+across a universe of small, gravity-defying planets. The game introduces
+creative level designs that play with physics while maintaining tight,
+responsive controls. Its sense of wonder, inventive gameplay, and orchestral
+soundtrack helped define it as one of the greatest platformers ever made.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
