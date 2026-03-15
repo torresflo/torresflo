@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-FTL: Faster Than Light
+F-Zero GX
 
-📅 Released September 14, 2012
-🏗️ Created by Subset Games
-🕹️ Playable on PC, iOS
+📅 Released July 25, 2003
+🏗️ Created by Amusement Vision
+🕹️ Playable on GameCube
 
-FTL: Faster Than Light is a roguelike strategy game where players command a
-spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
-forcing players to make tough decisions about crew management, ship upgrades,
-and combat tactics. The game is celebrated for its tension, replayability, and
-emergent storytelling.
+F-Zero GX is a high-speed futuristic racing game known for its extreme
+difficulty and sense of speed. Players race anti-gravity vehicles on twisting
+tracks while managing boosts and sharp turns at breakneck velocities. The game
+stands out for its tight controls, bold visual style, and reputation as one of
+the most challenging racing games of its era.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
