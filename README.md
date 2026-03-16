@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-F-Zero GX
+Super Mario Galaxy
 
-📅 Released July 25, 2003
-🏗️ Created by Amusement Vision
-🕹️ Playable on GameCube
+📅 Released November 1, 2007
+🏗️ Created by Nintendo
+🕹️ Playable on Wii, Nintendo Switch
 
-F-Zero GX is a high-speed futuristic racing game known for its extreme
-difficulty and sense of speed. Players race anti-gravity vehicles on twisting
-tracks while managing boosts and sharp turns at breakneck velocities. The game
-stands out for its tight controls, bold visual style, and reputation as one of
-the most challenging racing games of its era.
+Super Mario Galaxy reimagines classic Mario platforming by sending players
+across a universe of small, gravity-defying planets. The game introduces
+creative level designs that play with physics while maintaining tight,
+responsive controls. Its sense of wonder, inventive gameplay, and orchestral
+soundtrack helped define it as one of the greatest platformers ever made.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
