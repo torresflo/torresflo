@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Super Mario Galaxy
+Dishonored 2
 
-📅 Released November 1, 2007
-🏗️ Created by Nintendo
-🕹️ Playable on Wii, Nintendo Switch
+📅 Released November 11, 2016
+🏗️ Created by Arkane Studios
+🕹️ Playable on PC, PlayStation 4, Xbox One
 
-Super Mario Galaxy reimagines classic Mario platforming by sending players
-across a universe of small, gravity-defying planets. The game introduces
-creative level designs that play with physics while maintaining tight,
-responsive controls. Its sense of wonder, inventive gameplay, and orchestral
-soundtrack helped define it as one of the greatest platformers ever made.
+Dishonored 2 is a stealth-action game set in a richly detailed, steampunk-
+inspired world. Players can choose between two protagonists, each with unique
+supernatural abilities, and approach missions with freedom and creativity. The
+game emphasizes player choice, allowing for lethal or non-lethal solutions, and
+reacts dynamically to how the player shapes the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
