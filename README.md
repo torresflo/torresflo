@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-F-Zero GX
+Fable
 
-📅 Released July 25, 2003
-🏗️ Created by Amusement Vision
-🕹️ Playable on GameCube
+📅 Released September 14, 2004
+🏗️ Created by Lionhead Studios
+🕹️ Playable on Xbox, PC, Xbox 360
 
-F-Zero GX is a high-speed futuristic racing game known for its extreme
-difficulty and sense of speed. Players race anti-gravity vehicles on twisting
-tracks while managing boosts and sharp turns at breakneck velocities. The game
-stands out for its tight controls, bold visual style, and reputation as one of
-the most challenging racing games of its era.
+Fable is an action role-playing game set in the fantasy world of Albion, where
+player choices directly shape the hero’s appearance and morality. The game
+emphasizes freedom, allowing players to decide how their character behaves and
+is perceived by others. Its blend of humor, storytelling, and consequence-driven
+gameplay made it a memorable RPG experience.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
