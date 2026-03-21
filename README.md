@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Super Mario Galaxy
+No Man's Sky
 
-📅 Released November 1, 2007
-🏗️ Created by Nintendo
-🕹️ Playable on Wii, Nintendo Switch
+📅 Released August 9, 2016
+🏗️ Created by Hello Games
+🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
 
-Super Mario Galaxy reimagines classic Mario platforming by sending players
-across a universe of small, gravity-defying planets. The game introduces
-creative level designs that play with physics while maintaining tight,
-responsive controls. Its sense of wonder, inventive gameplay, and orchestral
-soundtrack helped define it as one of the greatest platformers ever made.
+No Man's Sky is a science fiction exploration game set in a procedurally
+generated universe with billions of planets. Players can explore, trade, fight,
+and survive while uncovering the mysteries of the cosmos. Over time, extensive
+updates have expanded the game with base building, multiplayer, story content,
+and deep systems that transformed it into a rich and expansive space sandbox.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
