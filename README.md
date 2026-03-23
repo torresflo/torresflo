@@ -52,7 +52,7 @@ and deep systems that transformed it into a rich and expansive space sandbox.
 🎮 Recently played Steam games
 
 ```text
-No recently played games 😢
+🪐 Halo Infinite                     🕘 215 hours 44 minutes
 ```
 
 🎮 Steam playtime leaderboard
@@ -61,7 +61,7 @@ No recently played games 😢
 🎲 The Binding of Isaac: Rebirth     🕘 458 hours 47 minutes
 🚀 Rocket League                     🕘 265 hours 40 minutes
 🌍 Terraria                          🕘 243 hours 37 minutes
-🪐 Halo Infinite                     🕘 215 hours 1 minute
+🪐 Halo Infinite                     🕘 215 hours 44 minutes
 🎪 Fall Guys                         🕘 136 hours 36 minutes
 ```
 <!-- Powered by https://github.com/torresflo/Steam-Box-Python. -->
