@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Persona 5
+Portal 2
 
-📅 Released September 15, 2016
-🏗️ Created by Atlus
-🕹️ Playable on PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, PC
+📅 Released April 19, 2011
+🏗️ Created by Valve
+🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
 
-Persona 5 is a stylish Japanese role-playing game that follows a group of high
-school students who secretly explore supernatural palaces to change corrupt
-hearts. Blending turn-based combat with life simulation elements, the game
-balances dungeon crawling with daily activities and social relationships. Its
-bold art style, memorable soundtrack, and themes of rebellion and justice earned
-it widespread acclaim.
+Portal 2 is a first-person puzzle game that challenges players to think
+spatially using a device that creates linked portals. Building on the original
+game, it introduces a longer campaign, new mechanics, and a memorable cast of
+characters, including the sarcastic AI GLaDOS. The game is widely praised for
+its clever level design, sharp humor, and engaging cooperative mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
