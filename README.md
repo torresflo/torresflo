@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Pokémon Gold
+The Binding of Isaac: Rebirth
 
-📅 Released November 21, 1999
-🏗️ Created by Game Freak
-🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
+📅 Released November 4, 2014
+🏗️ Created by Nicalis
+🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
 
-Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
-the introduction of a real-time day and night system. Players explore the Johto
-region while collecting Pokémon, battling Gym Leaders, and thwarting Team
-Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
-the surprise return to the Kanto region after completing the main story.
+The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
+twin-stick shooters. Players control Isaac as he descends into procedurally
+generated dungeons filled with enemies, items, and disturbing imagery. Known for
+its challenging gameplay and massive item variety, the game offers near-endless
+replayability and discovery.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
