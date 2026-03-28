@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Binding of Isaac: Rebirth
+God of War (2018)
 
-📅 Released November 4, 2014
-🏗️ Created by Nicalis
-🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
+📅 Released April 20, 2018
+🏗️ Created by Santa Monica Studio
+🕹️ Playable on PlayStation 4, PlayStation 5, PC
 
-The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
-twin-stick shooters. Players control Isaac as he descends into procedurally
-generated dungeons filled with enemies, items, and disturbing imagery. Known for
-its challenging gameplay and massive item variety, the game offers near-endless
-replayability and discovery.
+God of War (2018) reinvents the long-running series with a more grounded
+narrative and a new mythological setting inspired by Norse legends. Players
+follow Kratos and his son Atreus on an emotional journey that blends intense
+combat with character-driven storytelling. The game is praised for its cinematic
+presentation, refined combat system, and mature exploration of fatherhood.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
