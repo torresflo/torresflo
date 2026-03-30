@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Fable
+God of War (2018)
 
-📅 Released September 14, 2004
-🏗️ Created by Lionhead Studios
-🕹️ Playable on Xbox, PC, Xbox 360
+📅 Released April 20, 2018
+🏗️ Created by Santa Monica Studio
+🕹️ Playable on PlayStation 4, PlayStation 5, PC
 
-Fable is an action role-playing game set in the fantasy world of Albion, where
-player choices directly shape the hero’s appearance and morality. The game
-emphasizes freedom, allowing players to decide how their character behaves and
-is perceived by others. Its blend of humor, storytelling, and consequence-driven
-gameplay made it a memorable RPG experience.
+God of War (2018) reinvents the long-running series with a more grounded
+narrative and a new mythological setting inspired by Norse legends. Players
+follow Kratos and his son Atreus on an emotional journey that blends intense
+combat with character-driven storytelling. The game is praised for its cinematic
+presentation, refined combat system, and mature exploration of fatherhood.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
