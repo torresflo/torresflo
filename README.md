@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Tales of Symphonia
+Fable
 
-📅 Released August 29, 2003
-🏗️ Created by Namco Tales Studio
-🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
+📅 Released September 14, 2004
+🏗️ Created by Lionhead Studios
+🕹️ Playable on Xbox, PC, Xbox 360
 
-Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
-Irving and his companions on a journey to regenerate a dying world. Featuring
-real-time combat through the Linear Motion Battle System, the game blends action
-and strategy while emphasizing character relationships and moral choices. Its
-story explores themes of sacrifice, prejudice, and what it truly means to save
-the world.
+Fable is an action role-playing game set in the fantasy world of Albion, where
+player choices directly shape the hero’s appearance and morality. The game
+emphasizes freedom, allowing players to decide how their character behaves and
+is perceived by others. Its blend of humor, storytelling, and consequence-driven
+gameplay made it a memorable RPG experience.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
