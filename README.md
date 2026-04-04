@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: The Wind Waker
+No Man's Sky
 
-📅 Released March 24, 2003
-🏗️ Created by Nintendo
-🕹️ Playable on GameCube, Wii U
+📅 Released August 9, 2016
+🏗️ Created by Hello Games
+🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
 
-The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
-oceanic world dotted with islands. Players control a young version of Link as he
-sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
-Initially divisive for its art style, the game is now widely praised for its
-expressive visuals, music, and sense of adventure.
+No Man's Sky is a science fiction exploration game set in a procedurally
+generated universe with billions of planets. Players can explore, trade, fight,
+and survive while uncovering the mysteries of the cosmos. Over time, extensive
+updates have expanded the game with base building, multiplayer, story content,
+and deep systems that transformed it into a rich and expansive space sandbox.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
