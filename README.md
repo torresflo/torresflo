@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-No Man's Sky
+The Binding of Isaac: Rebirth
 
-📅 Released August 9, 2016
-🏗️ Created by Hello Games
-🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
+📅 Released November 4, 2014
+🏗️ Created by Nicalis
+🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
 
-No Man's Sky is a science fiction exploration game set in a procedurally
-generated universe with billions of planets. Players can explore, trade, fight,
-and survive while uncovering the mysteries of the cosmos. Over time, extensive
-updates have expanded the game with base building, multiplayer, story content,
-and deep systems that transformed it into a rich and expansive space sandbox.
+The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
+twin-stick shooters. Players control Isaac as he descends into procedurally
+generated dungeons filled with enemies, items, and disturbing imagery. Known for
+its challenging gameplay and massive item variety, the game offers near-endless
+replayability and discovery.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
