@@ -52,7 +52,7 @@ replayability and discovery.
 🎮 Recently played Steam games
 
 ```text
-🪐 Halo Infinite                     🕘 215 hours 44 minutes
+No recently played games 😢
 ```
 
 🎮 Steam playtime leaderboard
