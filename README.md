@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Tales of Symphonia
+Pokémon Gold
 
-📅 Released August 29, 2003
-🏗️ Created by Namco Tales Studio
-🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
+📅 Released November 21, 1999
+🏗️ Created by Game Freak
+🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
 
-Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
-Irving and his companions on a journey to regenerate a dying world. Featuring
-real-time combat through the Linear Motion Battle System, the game blends action
-and strategy while emphasizing character relationships and moral choices. Its
-story explores themes of sacrifice, prejudice, and what it truly means to save
-the world.
+Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
+the introduction of a real-time day and night system. Players explore the Johto
+region while collecting Pokémon, battling Gym Leaders, and thwarting Team
+Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
+the surprise return to the Kanto region after completing the main story.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
