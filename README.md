@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Baldur’s Gate 3
+The Binding of Isaac: Rebirth
 
-📅 Released August 3, 2023
-🏗️ Created by Larian Studios
-🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
+📅 Released November 4, 2014
+🏗️ Created by Nicalis
+🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
 
-Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
-offering deep narrative choices and turn-based tactical combat. Players create
-their own character or choose from origin heroes, shaping the story through
-dialogue, actions, and combat decisions. The game is known for its reactivity,
-freedom, and faithful adaptation of tabletop RPG systems.
+The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
+twin-stick shooters. Players control Isaac as he descends into procedurally
+generated dungeons filled with enemies, items, and disturbing imagery. Known for
+its challenging gameplay and massive item variety, the game offers near-endless
+replayability and discovery.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
