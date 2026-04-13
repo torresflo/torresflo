@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Binding of Isaac: Rebirth
+Titanfall 2
 
-📅 Released November 4, 2014
-🏗️ Created by Nicalis
-🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
+📅 Released October 28, 2016
+🏗️ Created by Respawn Entertainment
+🕹️ Playable on PC, PlayStation 4, Xbox One
 
-The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
-twin-stick shooters. Players control Isaac as he descends into procedurally
-generated dungeons filled with enemies, items, and disturbing imagery. Known for
-its challenging gameplay and massive item variety, the game offers near-endless
-replayability and discovery.
+Titanfall 2 combines fast-paced first-person shooter combat with fluid parkour
+movement and massive mech battles. Its single-player campaign is praised for
+inventive level design and the emotional bond between the pilot and their Titan,
+BT-7274. The multiplayer expands on the original with deeper customization and
+refined mechanics, making it a standout in the genre.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
