@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Animal Crossing: New Horizons
+Pokémon Gold
 
-📅 Released March 20, 2020
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released November 21, 1999
+🏗️ Created by Game Freak
+🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
 
-Animal Crossing: New Horizons invites players to create a new life on a deserted
-island filled with charming animal neighbors. The game focuses on customization,
-relaxation, and real-time progression as players decorate their island, collect
-items, and build relationships. Its calming pace and creative freedom made it
-especially beloved as a social and comforting experience.
+Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
+the introduction of a real-time day and night system. Players explore the Johto
+region while collecting Pokémon, battling Gym Leaders, and thwarting Team
+Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
+the surprise return to the Kanto region after completing the main story.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
