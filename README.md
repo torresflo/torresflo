@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Pokémon Gold
+Fable
 
-📅 Released November 21, 1999
-🏗️ Created by Game Freak
-🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
+📅 Released September 14, 2004
+🏗️ Created by Lionhead Studios
+🕹️ Playable on Xbox, PC, Xbox 360
 
-Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
-the introduction of a real-time day and night system. Players explore the Johto
-region while collecting Pokémon, battling Gym Leaders, and thwarting Team
-Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
-the surprise return to the Kanto region after completing the main story.
+Fable is an action role-playing game set in the fantasy world of Albion, where
+player choices directly shape the hero’s appearance and morality. The game
+emphasizes freedom, allowing players to decide how their character behaves and
+is perceived by others. Its blend of humor, storytelling, and consequence-driven
+gameplay made it a memorable RPG experience.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
