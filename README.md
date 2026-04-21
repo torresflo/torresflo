@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Fable
+Portal 2
 
-📅 Released September 14, 2004
-🏗️ Created by Lionhead Studios
-🕹️ Playable on Xbox, PC, Xbox 360
+📅 Released April 19, 2011
+🏗️ Created by Valve
+🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
 
-Fable is an action role-playing game set in the fantasy world of Albion, where
-player choices directly shape the hero’s appearance and morality. The game
-emphasizes freedom, allowing players to decide how their character behaves and
-is perceived by others. Its blend of humor, storytelling, and consequence-driven
-gameplay made it a memorable RPG experience.
+Portal 2 is a first-person puzzle game that challenges players to think
+spatially using a device that creates linked portals. Building on the original
+game, it introduces a longer campaign, new mechanics, and a memorable cast of
+characters, including the sarcastic AI GLaDOS. The game is widely praised for
+its clever level design, sharp humor, and engaging cooperative mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
