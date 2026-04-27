@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Blue Prince
+The Legend of Zelda: The Wind Waker
 
-📅 Released April 10, 2024
-🏗️ Created by Dogubomb
-🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
+📅 Released March 24, 2003
+🏗️ Created by Nintendo
+🕹️ Playable on GameCube, Wii U
 
-Blue Prince is a puzzle-adventure game centered around exploring a mysterious,
-ever-changing mansion. Each room presents unique challenges, secrets, and
-narrative fragments that slowly reveal the story behind the estate. The game
-emphasizes atmosphere, clever environmental puzzles, and player curiosity,
-rewarding careful observation and experimentation.
+The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
+oceanic world dotted with islands. Players control a young version of Link as he
+sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
+Initially divisive for its art style, the game is now widely praised for its
+expressive visuals, music, and sense of adventure.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
