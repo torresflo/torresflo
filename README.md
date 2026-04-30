@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-FTL: Faster Than Light
+Portal 2
 
-📅 Released September 14, 2012
-🏗️ Created by Subset Games
-🕹️ Playable on PC, iOS
+📅 Released April 19, 2011
+🏗️ Created by Valve
+🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
 
-FTL: Faster Than Light is a roguelike strategy game where players command a
-spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
-forcing players to make tough decisions about crew management, ship upgrades,
-and combat tactics. The game is celebrated for its tension, replayability, and
-emergent storytelling.
+Portal 2 is a first-person puzzle game that challenges players to think
+spatially using a device that creates linked portals. Building on the original
+game, it introduces a longer campaign, new mechanics, and a memorable cast of
+characters, including the sarcastic AI GLaDOS. The game is widely praised for
+its clever level design, sharp humor, and engaging cooperative mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
