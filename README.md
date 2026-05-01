@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Portal 2
+Super Mario Galaxy
 
-📅 Released April 19, 2011
-🏗️ Created by Valve
-🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
+📅 Released November 1, 2007
+🏗️ Created by Nintendo
+🕹️ Playable on Wii, Nintendo Switch
 
-Portal 2 is a first-person puzzle game that challenges players to think
-spatially using a device that creates linked portals. Building on the original
-game, it introduces a longer campaign, new mechanics, and a memorable cast of
-characters, including the sarcastic AI GLaDOS. The game is widely praised for
-its clever level design, sharp humor, and engaging cooperative mode.
+Super Mario Galaxy reimagines classic Mario platforming by sending players
+across a universe of small, gravity-defying planets. The game introduces
+creative level designs that play with physics while maintaining tight,
+responsive controls. Its sense of wonder, inventive gameplay, and orchestral
+soundtrack helped define it as one of the greatest platformers ever made.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
