@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Super Mario Galaxy
+Pokémon Gold
 
-📅 Released November 1, 2007
-🏗️ Created by Nintendo
-🕹️ Playable on Wii, Nintendo Switch
+📅 Released November 21, 1999
+🏗️ Created by Game Freak
+🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
 
-Super Mario Galaxy reimagines classic Mario platforming by sending players
-across a universe of small, gravity-defying planets. The game introduces
-creative level designs that play with physics while maintaining tight,
-responsive controls. Its sense of wonder, inventive gameplay, and orchestral
-soundtrack helped define it as one of the greatest platformers ever made.
+Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
+the introduction of a real-time day and night system. Players explore the Johto
+region while collecting Pokémon, battling Gym Leaders, and thwarting Team
+Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
+the surprise return to the Kanto region after completing the main story.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
