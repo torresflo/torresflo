@@ -52,7 +52,7 @@ its clever level design, sharp humor, and engaging cooperative mode.
 🎮 Recently played Steam games
 
 ```text
-No recently played games 😢
+🪐 No Man's Sky                      🕘 97 hours 21 minutes
 ```
 
 🎮 Steam playtime leaderboard
