@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Portal 2
+Satisfactory
 
-📅 Released April 19, 2011
-🏗️ Created by Valve
-🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
+📅 Released March 19, 2019
+🏗️ Created by Coffee Stain Studios
+🕹️ Playable on PC
 
-Portal 2 is a first-person puzzle game that challenges players to think
-spatially using a device that creates linked portals. Building on the original
-game, it introduces a longer campaign, new mechanics, and a memorable cast of
-characters, including the sarcastic AI GLaDOS. The game is widely praised for
-its clever level design, sharp humor, and engaging cooperative mode.
+Satisfactory is a first-person factory-building and automation game set on an
+alien planet. Players gather resources, construct massive production lines, and
+optimize logistics to increase efficiency. The game blends exploration with
+complex engineering challenges, encouraging creativity and long-term planning as
+factories grow larger and more intricate.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
