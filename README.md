@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Satisfactory
+No Man's Sky
 
-📅 Released March 19, 2019
-🏗️ Created by Coffee Stain Studios
-🕹️ Playable on PC
+📅 Released August 9, 2016
+🏗️ Created by Hello Games
+🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
 
-Satisfactory is a first-person factory-building and automation game set on an
-alien planet. Players gather resources, construct massive production lines, and
-optimize logistics to increase efficiency. The game blends exploration with
-complex engineering challenges, encouraging creativity and long-term planning as
-factories grow larger and more intricate.
+No Man's Sky is a science fiction exploration game set in a procedurally
+generated universe with billions of planets. Players can explore, trade, fight,
+and survive while uncovering the mysteries of the cosmos. Over time, extensive
+updates have expanded the game with base building, multiplayer, story content,
+and deep systems that transformed it into a rich and expansive space sandbox.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
