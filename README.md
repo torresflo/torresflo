@@ -52,7 +52,7 @@ and deep systems that transformed it into a rich and expansive space sandbox.
 🎮 Recently played Steam games
 
 ```text
-🪐 No Man's Sky                      🕘 97 hours 21 minutes
+🪐 No Man's Sky                      🕘 100 hours 57 minutes
 ```
 
 🎮 Steam playtime leaderboard
