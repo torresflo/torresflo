@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: Tears of the Kingdom
+Portal 2
 
-📅 Released May 12, 2023
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released April 19, 2011
+🏗️ Created by Valve
+🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
 
-The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
-of Breath of the Wild, introducing new abilities that allow players to
-manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
-emphasizes creativity and player-driven problem solving while delivering an epic
-story about the origins of Hyrule and an ancient threat. Its freedom of
-exploration and systemic design set a new benchmark for open-world games.
+Portal 2 is a first-person puzzle game that challenges players to think
+spatially using a device that creates linked portals. Building on the original
+game, it introduces a longer campaign, new mechanics, and a memorable cast of
+characters, including the sarcastic AI GLaDOS. The game is widely praised for
+its clever level design, sharp humor, and engaging cooperative mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
