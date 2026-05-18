@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Animal Crossing: New Horizons
+FTL: Faster Than Light
 
-📅 Released March 20, 2020
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released September 14, 2012
+🏗️ Created by Subset Games
+🕹️ Playable on PC, iOS
 
-Animal Crossing: New Horizons invites players to create a new life on a deserted
-island filled with charming animal neighbors. The game focuses on customization,
-relaxation, and real-time progression as players decorate their island, collect
-items, and build relationships. Its calming pace and creative freedom made it
-especially beloved as a social and comforting experience.
+FTL: Faster Than Light is a roguelike strategy game where players command a
+spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
+forcing players to make tough decisions about crew management, ship upgrades,
+and combat tactics. The game is celebrated for its tension, replayability, and
+emergent storytelling.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
