@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-FTL: Faster Than Light
+Tales of Symphonia
 
-📅 Released September 14, 2012
-🏗️ Created by Subset Games
-🕹️ Playable on PC, iOS
+📅 Released August 29, 2003
+🏗️ Created by Namco Tales Studio
+🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
 
-FTL: Faster Than Light is a roguelike strategy game where players command a
-spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
-forcing players to make tough decisions about crew management, ship upgrades,
-and combat tactics. The game is celebrated for its tension, replayability, and
-emergent storytelling.
+Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
+Irving and his companions on a journey to regenerate a dying world. Featuring
+real-time combat through the Linear Motion Battle System, the game blends action
+and strategy while emphasizing character relationships and moral choices. Its
+story explores themes of sacrifice, prejudice, and what it truly means to save
+the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
