@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Tales of Symphonia
+Blue Prince
 
-📅 Released August 29, 2003
-🏗️ Created by Namco Tales Studio
-🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
+📅 Released April 10, 2024
+🏗️ Created by Dogubomb
+🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
 
-Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
-Irving and his companions on a journey to regenerate a dying world. Featuring
-real-time combat through the Linear Motion Battle System, the game blends action
-and strategy while emphasizing character relationships and moral choices. Its
-story explores themes of sacrifice, prejudice, and what it truly means to save
-the world.
+Blue Prince is a puzzle-adventure game centered around exploring a mysterious,
+ever-changing mansion. Each room presents unique challenges, secrets, and
+narrative fragments that slowly reveal the story behind the estate. The game
+emphasizes atmosphere, clever environmental puzzles, and player curiosity,
+rewarding careful observation and experimentation.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
