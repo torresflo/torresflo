@@ -52,7 +52,7 @@ rewarding careful observation and experimentation.
 🎮 Recently played Steam games
 
 ```text
-🪐 No Man's Sky                      🕘 104 hours 52 minutes
+No recently played games 😢
 ```
 
 🎮 Steam playtime leaderboard
