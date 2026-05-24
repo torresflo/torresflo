@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Dishonored 2
+Baldur’s Gate 3
 
-📅 Released November 11, 2016
-🏗️ Created by Arkane Studios
-🕹️ Playable on PC, PlayStation 4, Xbox One
+📅 Released August 3, 2023
+🏗️ Created by Larian Studios
+🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
 
-Dishonored 2 is a stealth-action game set in a richly detailed, steampunk-
-inspired world. Players can choose between two protagonists, each with unique
-supernatural abilities, and approach missions with freedom and creativity. The
-game emphasizes player choice, allowing for lethal or non-lethal solutions, and
-reacts dynamically to how the player shapes the world.
+Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
+offering deep narrative choices and turn-based tactical combat. Players create
+their own character or choose from origin heroes, shaping the story through
+dialogue, actions, and combat decisions. The game is known for its reactivity,
+freedom, and faithful adaptation of tabletop RPG systems.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
