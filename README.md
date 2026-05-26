@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-No Man's Sky
+The Legend of Zelda: Tears of the Kingdom
 
-📅 Released August 9, 2016
-🏗️ Created by Hello Games
-🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
+📅 Released May 12, 2023
+🏗️ Created by Nintendo
+🕹️ Playable on Nintendo Switch
 
-No Man's Sky is a science fiction exploration game set in a procedurally
-generated universe with billions of planets. Players can explore, trade, fight,
-and survive while uncovering the mysteries of the cosmos. Over time, extensive
-updates have expanded the game with base building, multiplayer, story content,
-and deep systems that transformed it into a rich and expansive space sandbox.
+The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
+of Breath of the Wild, introducing new abilities that allow players to
+manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
+emphasizes creativity and player-driven problem solving while delivering an epic
+story about the origins of Hyrule and an ancient threat. Its freedom of
+exploration and systemic design set a new benchmark for open-world games.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
