@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: Tears of the Kingdom
+Titanfall 2
 
-📅 Released May 12, 2023
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released October 28, 2016
+🏗️ Created by Respawn Entertainment
+🕹️ Playable on PC, PlayStation 4, Xbox One
 
-The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
-of Breath of the Wild, introducing new abilities that allow players to
-manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
-emphasizes creativity and player-driven problem solving while delivering an epic
-story about the origins of Hyrule and an ancient threat. Its freedom of
-exploration and systemic design set a new benchmark for open-world games.
+Titanfall 2 combines fast-paced first-person shooter combat with fluid parkour
+movement and massive mech battles. Its single-player campaign is praised for
+inventive level design and the emotional bond between the pilot and their Titan,
+BT-7274. The multiplayer expands on the original with deeper customization and
+refined mechanics, making it a standout in the genre.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
