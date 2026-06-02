@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Halo 3
+Tales of Symphonia
 
-📅 Released September 25, 2007
-🏗️ Created by Bungie
-🕹️ Playable on Xbox 360, Xbox One, Xbox Series X|S, PC
+📅 Released August 29, 2003
+🏗️ Created by Namco Tales Studio
+🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
 
-Halo 3 concludes the original Halo trilogy, placing players once again in the
-role of the Master Chief as humanity fights for survival against the Covenant
-and the Flood. The game is known for its cinematic storytelling, refined
-gunplay, and expansive multiplayer modes. It became a cultural phenomenon thanks
-to its cooperative campaign, competitive online play, and robust Forge mode.
+Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
+Irving and his companions on a journey to regenerate a dying world. Featuring
+real-time combat through the Linear Motion Battle System, the game blends action
+and strategy while emphasizing character relationships and moral choices. Its
+story explores themes of sacrifice, prejudice, and what it truly means to save
+the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
