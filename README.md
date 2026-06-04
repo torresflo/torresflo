@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Animal Crossing: New Horizons
+Blue Prince
 
-📅 Released March 20, 2020
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released April 10, 2024
+🏗️ Created by Dogubomb
+🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
 
-Animal Crossing: New Horizons invites players to create a new life on a deserted
-island filled with charming animal neighbors. The game focuses on customization,
-relaxation, and real-time progression as players decorate their island, collect
-items, and build relationships. Its calming pace and creative freedom made it
-especially beloved as a social and comforting experience.
+Blue Prince is a puzzle-adventure game centered around exploring a mysterious,
+ever-changing mansion. Each room presents unique challenges, secrets, and
+narrative fragments that slowly reveal the story behind the estate. The game
+emphasizes atmosphere, clever environmental puzzles, and player curiosity,
+rewarding careful observation and experimentation.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
