@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Titanfall 2
+Super Mario Galaxy
 
-📅 Released October 28, 2016
-🏗️ Created by Respawn Entertainment
-🕹️ Playable on PC, PlayStation 4, Xbox One
+📅 Released November 1, 2007
+🏗️ Created by Nintendo
+🕹️ Playable on Wii, Nintendo Switch
 
-Titanfall 2 combines fast-paced first-person shooter combat with fluid parkour
-movement and massive mech battles. Its single-player campaign is praised for
-inventive level design and the emotional bond between the pilot and their Titan,
-BT-7274. The multiplayer expands on the original with deeper customization and
-refined mechanics, making it a standout in the genre.
+Super Mario Galaxy reimagines classic Mario platforming by sending players
+across a universe of small, gravity-defying planets. The game introduces
+creative level designs that play with physics while maintaining tight,
+responsive controls. Its sense of wonder, inventive gameplay, and orchestral
+soundtrack helped define it as one of the greatest platformers ever made.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
