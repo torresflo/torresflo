@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-No Man's Sky
+FTL: Faster Than Light
 
-📅 Released August 9, 2016
-🏗️ Created by Hello Games
-🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
+📅 Released September 14, 2012
+🏗️ Created by Subset Games
+🕹️ Playable on PC, iOS
 
-No Man's Sky is a science fiction exploration game set in a procedurally
-generated universe with billions of planets. Players can explore, trade, fight,
-and survive while uncovering the mysteries of the cosmos. Over time, extensive
-updates have expanded the game with base building, multiplayer, story content,
-and deep systems that transformed it into a rich and expansive space sandbox.
+FTL: Faster Than Light is a roguelike strategy game where players command a
+spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
+forcing players to make tough decisions about crew management, ship upgrades,
+and combat tactics. The game is celebrated for its tension, replayability, and
+emergent storytelling.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
