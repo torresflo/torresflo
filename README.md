@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-No Man's Sky
+F-Zero GX
 
-📅 Released August 9, 2016
-🏗️ Created by Hello Games
-🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
+📅 Released July 25, 2003
+🏗️ Created by Amusement Vision
+🕹️ Playable on GameCube
 
-No Man's Sky is a science fiction exploration game set in a procedurally
-generated universe with billions of planets. Players can explore, trade, fight,
-and survive while uncovering the mysteries of the cosmos. Over time, extensive
-updates have expanded the game with base building, multiplayer, story content,
-and deep systems that transformed it into a rich and expansive space sandbox.
+F-Zero GX is a high-speed futuristic racing game known for its extreme
+difficulty and sense of speed. Players race anti-gravity vehicles on twisting
+tracks while managing boosts and sharp turns at breakneck velocities. The game
+stands out for its tight controls, bold visual style, and reputation as one of
+the most challenging racing games of its era.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
