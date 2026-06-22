@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-FTL: Faster Than Light
+The Binding of Isaac: Rebirth
 
-📅 Released September 14, 2012
-🏗️ Created by Subset Games
-🕹️ Playable on PC, iOS
+📅 Released November 4, 2014
+🏗️ Created by Nicalis
+🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
 
-FTL: Faster Than Light is a roguelike strategy game where players command a
-spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
-forcing players to make tough decisions about crew management, ship upgrades,
-and combat tactics. The game is celebrated for its tension, replayability, and
-emergent storytelling.
+The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
+twin-stick shooters. Players control Isaac as he descends into procedurally
+generated dungeons filled with enemies, items, and disturbing imagery. Known for
+its challenging gameplay and massive item variety, the game offers near-endless
+replayability and discovery.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
