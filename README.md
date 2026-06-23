@@ -110,8 +110,8 @@ Others         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>G</kbd> to `Remove and sort Usings`
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd> to `Trigger Parameter Hints`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
