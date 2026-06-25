@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: The Wind Waker
+Tales of Symphonia
 
-📅 Released March 24, 2003
-🏗️ Created by Nintendo
-🕹️ Playable on GameCube, Wii U
+📅 Released August 29, 2003
+🏗️ Created by Namco Tales Studio
+🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
 
-The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
-oceanic world dotted with islands. Players control a young version of Link as he
-sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
-Initially divisive for its art style, the game is now widely praised for its
-expressive visuals, music, and sense of adventure.
+Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
+Irving and his companions on a journey to regenerate a dying world. Featuring
+real-time combat through the Linear Motion Battle System, the game blends action
+and strategy while emphasizing character relationships and moral choices. Its
+story explores themes of sacrifice, prejudice, and what it truly means to save
+the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
