@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: The Wind Waker
+Persona 5
 
-📅 Released March 24, 2003
-🏗️ Created by Nintendo
-🕹️ Playable on GameCube, Wii U
+📅 Released September 15, 2016
+🏗️ Created by Atlus
+🕹️ Playable on PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, PC
 
-The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
-oceanic world dotted with islands. Players control a young version of Link as he
-sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
-Initially divisive for its art style, the game is now widely praised for its
-expressive visuals, music, and sense of adventure.
+Persona 5 is a stylish Japanese role-playing game that follows a group of high
+school students who secretly explore supernatural palaces to change corrupt
+hearts. Blending turn-based combat with life simulation elements, the game
+balances dungeon crawling with daily activities and social relationships. Its
+bold art style, memorable soundtrack, and themes of rebellion and justice earned
+it widespread acclaim.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
