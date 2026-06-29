@@ -31,17 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Animal Crossing: New Horizons
+Satisfactory
 
-📅 Released March 20, 2020
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released March 19, 2019
+🏗️ Created by Coffee Stain Studios
+🕹️ Playable on PC
 
-Animal Crossing: New Horizons invites players to create a new life on a deserted
-island filled with charming animal neighbors. The game focuses on customization,
-relaxation, and real-time progression as players decorate their island, collect
-items, and build relationships. Its calming pace and creative freedom made it
-especially beloved as a social and comforting experience.
+Satisfactory is a first-person factory-building and automation game set on an
+alien planet. Players gather resources, construct massive production lines, and
+optimize logistics to increase efficiency. The game blends exploration with
+complex engineering challenges, encouraging creativity and long-term planning as
+factories grow larger and more intricate.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
