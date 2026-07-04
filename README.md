@@ -31,17 +31,18 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Animal Crossing: New Horizons
+Persona 5
 
-📅 Released March 20, 2020
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released September 15, 2016
+🏗️ Created by Atlus
+🕹️ Playable on PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, PC
 
-Animal Crossing: New Horizons invites players to create a new life on a deserted
-island filled with charming animal neighbors. The game focuses on customization,
-relaxation, and real-time progression as players decorate their island, collect
-items, and build relationships. Its calming pace and creative freedom made it
-especially beloved as a social and comforting experience.
+Persona 5 is a stylish Japanese role-playing game that follows a group of high
+school students who secretly explore supernatural palaces to change corrupt
+hearts. Blending turn-based combat with life simulation elements, the game
+balances dungeon crawling with daily activities and social relationships. Its
+bold art style, memorable soundtrack, and themes of rebellion and justice earned
+it widespread acclaim.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
