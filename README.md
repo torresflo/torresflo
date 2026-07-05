@@ -31,18 +31,17 @@ This is updated every day, come back tomorrow for another great pick.
 
 <!-- favorite-game-box start -->
 ```
-Persona 5
+FTL: Faster Than Light
 
-📅 Released September 15, 2016
-🏗️ Created by Atlus
-🕹️ Playable on PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, PC
+📅 Released September 14, 2012
+🏗️ Created by Subset Games
+🕹️ Playable on PC, iOS
 
-Persona 5 is a stylish Japanese role-playing game that follows a group of high
-school students who secretly explore supernatural palaces to change corrupt
-hearts. Blending turn-based combat with life simulation elements, the game
-balances dungeon crawling with daily activities and social relationships. Its
-bold art style, memorable soundtrack, and themes of rebellion and justice earned
-it widespread acclaim.
+FTL: Faster Than Light is a roguelike strategy game where players command a
+spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
+forcing players to make tough decisions about crew management, ship upgrades,
+and combat tactics. The game is celebrated for its tension, replayability, and
+emergent storytelling.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
