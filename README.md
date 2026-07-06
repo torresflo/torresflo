@@ -2,11 +2,13 @@
 
 Welcome to my (modest) GitHub page!
 
-I'm Florian, a **Senior Gameplay Programmer** currently working at **Sandfall Interactive** (Montpellier, France). I previously worked at **Ubisoft** (Montpellier and Singapore) for 6 years.
+I'm Florian, a **Senior Gameplay Programmer** currently working at **Sandfall Interactive** (Montpellier, France). I previously worked at **Ubisoft** (Montpellier and Singapore) for 6 years. During my career, I worked on multiple proprietary game engines and with Unreal Engine 5 (long live Blueprints!).
 
 I mainly code in **C++** and **Python**, but I am trying new stuff and always learning. 
 You will find here the different projects I am working and worked on.
 One of my lastest project is a complete Game Boy emulator, [try it out here](https://github.com/torresflo/Game-Boy-Reborn)!
+
+🔄 Currently working with a... Minitel! A [Toolkit library](https://github.com/torresflo/MinitelToolkit) is already available.
 
 --------------------------------------
 
@@ -14,7 +16,8 @@ One of my lastest project is a complete Game Boy emulator, [try it out here](htt
 I worked on several games during my career, here there are!
 
 At Sandfall Interactive:
-- [Clair Obscur: Expedition 33](https://www.expedition33.com/), released April 24, 2025. ✨GOTY 2025✨
+- [Clair Obscur: Expedition 33](https://www.expedition33.com/), released April 24, 2025. ✨GOTY 2025✨  
+I had the chance to talk at GDC about my work on Clair Obscur: Expedition 33, you can find the video on the [GDC Vault](https://gdcvault.com/play/1035795/-Clair-Obscur-Expedition-33) (access for members only).
 
 At Ubisoft:
 - [Beyond Good and Evil 2](https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2), not released yet (maybe one day?).
@@ -24,10 +27,20 @@ At Ubisoft:
 
 --------------------------------------
 
+### 🚀 Projects I'm proud of
+A few personal projects I had a lot of fun building:
+
+- 👾 [Game Boy Reborn](https://github.com/torresflo/Game-Boy-Reborn), a cycle-accurate Nintendo Game Boy (DMG-01) emulator written in modern **C++** (with SFML and Dear ImGui). Supports MBC0–5 cartridges, save states, rewind and a full built-in debugger (breakpoints, disassembly, memory, tile inspection...).
+- 🎮 [Pokémon Obsidian](https://github.com/torresflo/Pokemon-Obsidian), a fan-made Pokémon game inspired by the Ruby and Sapphire versions, with modern mechanics and content. Built in **Ruby** with RPG Maker XP and the Pokémon SDK.
+- 🔍 [Pokédex AI](https://github.com/torresflo/Pokedex-AI), a machine learning app that identifies first-generation Pokémon from images. Built in **Python** with PyTorch and PySide6.
+- 🏷️ [Tag Machine](https://github.com/torresflo/Tag-Machine), a photo auto-tagging tool that uses machine learning to detect image content and write keywords into the image metadata. Built in **Python** with PyTorch and PySide6.
+
+--------------------------------------
+
 ### ⭐ My favorite game(s)
 Want to play something cool? Here is one of my favorite video game!
 
-This is updated every day, come back tomorrow for another great pick.
+This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
