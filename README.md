@@ -2,11 +2,11 @@
 
 Welcome to my (modest) GitHub page!
 
-I'm Florian, a **senior gameplay programmer** currently working at **Sandfall Interactive** (Montpellier, France). I previously worked at **Ubisoft** (Montpellier and Singapore) for 6 years.
+I'm Florian, a **Senior Gameplay Programmer** currently working at **Sandfall Interactive** (Montpellier, France). I previously worked at **Ubisoft** (Montpellier and Singapore) for 6 years.
 
-I mainly code in **C++**, but I am trying new stuff and always learning. 
+I mainly code in **C++** and **Python**, but I am trying new stuff and always learning. 
 You will find here the different projects I am working and worked on.
-One of my lastest project is a fan game of Pokémon, [try it out here](https://torresflo.github.io/Pokemon-Obsidian/)!
+One of my lastest project is a complete Game Boy emulator, [try it out here](https://github.com/torresflo/Game-Boy-Reborn)!
 
 --------------------------------------
 
