@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Fable
+Dishonored 2
 
-📅 Released September 14, 2004
-🏗️ Created by Lionhead Studios
-🕹️ Playable on Xbox, PC, Xbox 360
+📅 Released November 11, 2016
+🏗️ Created by Arkane Studios
+🕹️ Playable on PC, PlayStation 4, Xbox One
 
-Fable is an action role-playing game set in the fantasy world of Albion, where
-player choices directly shape the hero’s appearance and morality. The game
-emphasizes freedom, allowing players to decide how their character behaves and
-is perceived by others. Its blend of humor, storytelling, and consequence-driven
-gameplay made it a memorable RPG experience.
+Dishonored 2 is a stealth-action game set in a richly detailed, steampunk-
+inspired world. Players can choose between two protagonists, each with unique
+supernatural abilities, and approach missions with freedom and creativity. The
+game emphasizes player choice, allowing for lethal or non-lethal solutions, and
+reacts dynamically to how the player shapes the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
