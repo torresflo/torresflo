@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Dishonored 2
+Satisfactory
 
-📅 Released November 11, 2016
-🏗️ Created by Arkane Studios
-🕹️ Playable on PC, PlayStation 4, Xbox One
+📅 Released March 19, 2019
+🏗️ Created by Coffee Stain Studios
+🕹️ Playable on PC
 
-Dishonored 2 is a stealth-action game set in a richly detailed, steampunk-
-inspired world. Players can choose between two protagonists, each with unique
-supernatural abilities, and approach missions with freedom and creativity. The
-game emphasizes player choice, allowing for lethal or non-lethal solutions, and
-reacts dynamically to how the player shapes the world.
+Satisfactory is a first-person factory-building and automation game set on an
+alien planet. Players gather resources, construct massive production lines, and
+optimize logistics to increase efficiency. The game blends exploration with
+complex engineering challenges, encouraging creativity and long-term planning as
+factories grow larger and more intricate.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
