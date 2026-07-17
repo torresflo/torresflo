@@ -44,18 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Tales of Symphonia
+Portal 2
 
-📅 Released August 29, 2003
-🏗️ Created by Namco Tales Studio
-🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
+📅 Released April 19, 2011
+🏗️ Created by Valve
+🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
 
-Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
-Irving and his companions on a journey to regenerate a dying world. Featuring
-real-time combat through the Linear Motion Battle System, the game blends action
-and strategy while emphasizing character relationships and moral choices. Its
-story explores themes of sacrifice, prejudice, and what it truly means to save
-the world.
+Portal 2 is a first-person puzzle game that challenges players to think
+spatially using a device that creates linked portals. Building on the original
+game, it introduces a longer campaign, new mechanics, and a memorable cast of
+characters, including the sarcastic AI GLaDOS. The game is widely praised for
+its clever level design, sharp humor, and engaging cooperative mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
