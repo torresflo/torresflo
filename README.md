@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-FTL: Faster Than Light
+Halo 3
 
-📅 Released September 14, 2012
-🏗️ Created by Subset Games
-🕹️ Playable on PC, iOS
+📅 Released September 25, 2007
+🏗️ Created by Bungie
+🕹️ Playable on Xbox 360, Xbox One, Xbox Series X|S, PC
 
-FTL: Faster Than Light is a roguelike strategy game where players command a
-spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
-forcing players to make tough decisions about crew management, ship upgrades,
-and combat tactics. The game is celebrated for its tension, replayability, and
-emergent storytelling.
+Halo 3 concludes the original Halo trilogy, placing players once again in the
+role of the Master Chief as humanity fights for survival against the Covenant
+and the Flood. The game is known for its cinematic storytelling, refined
+gunplay, and expansive multiplayer modes. It became a cultural phenomenon thanks
+to its cooperative campaign, competitive online play, and robust Forge mode.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
