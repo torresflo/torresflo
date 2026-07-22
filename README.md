@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Super Mario Galaxy
+Satisfactory
 
-📅 Released November 1, 2007
-🏗️ Created by Nintendo
-🕹️ Playable on Wii, Nintendo Switch
+📅 Released March 19, 2019
+🏗️ Created by Coffee Stain Studios
+🕹️ Playable on PC
 
-Super Mario Galaxy reimagines classic Mario platforming by sending players
-across a universe of small, gravity-defying planets. The game introduces
-creative level designs that play with physics while maintaining tight,
-responsive controls. Its sense of wonder, inventive gameplay, and orchestral
-soundtrack helped define it as one of the greatest platformers ever made.
+Satisfactory is a first-person factory-building and automation game set on an
+alien planet. Players gather resources, construct massive production lines, and
+optimize logistics to increase efficiency. The game blends exploration with
+complex engineering challenges, encouraging creativity and long-term planning as
+factories grow larger and more intricate.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
