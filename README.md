@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Portal 2
+Animal Crossing: New Horizons
 
-📅 Released April 19, 2011
-🏗️ Created by Valve
-🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
+📅 Released March 20, 2020
+🏗️ Created by Nintendo
+🕹️ Playable on Nintendo Switch
 
-Portal 2 is a first-person puzzle game that challenges players to think
-spatially using a device that creates linked portals. Building on the original
-game, it introduces a longer campaign, new mechanics, and a memorable cast of
-characters, including the sarcastic AI GLaDOS. The game is widely praised for
-its clever level design, sharp humor, and engaging cooperative mode.
+Animal Crossing: New Horizons invites players to create a new life on a deserted
+island filled with charming animal neighbors. The game focuses on customization,
+relaxation, and real-time progression as players decorate their island, collect
+items, and build relationships. Its calming pace and creative freedom made it
+especially beloved as a social and comforting experience.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
