@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-FTL: Faster Than Light
+The Legend of Zelda: The Wind Waker
 
-📅 Released September 14, 2012
-🏗️ Created by Subset Games
-🕹️ Playable on PC, iOS
+📅 Released March 24, 2003
+🏗️ Created by Nintendo
+🕹️ Playable on GameCube, Wii U
 
-FTL: Faster Than Light is a roguelike strategy game where players command a
-spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
-forcing players to make tough decisions about crew management, ship upgrades,
-and combat tactics. The game is celebrated for its tension, replayability, and
-emergent storytelling.
+The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
+oceanic world dotted with islands. Players control a young version of Link as he
+sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
+Initially divisive for its art style, the game is now widely praised for its
+expressive visuals, music, and sense of adventure.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
