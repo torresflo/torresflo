@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: The Wind Waker
+God of War (2018)
 
-📅 Released March 24, 2003
-🏗️ Created by Nintendo
-🕹️ Playable on GameCube, Wii U
+📅 Released April 20, 2018
+🏗️ Created by Santa Monica Studio
+🕹️ Playable on PlayStation 4, PlayStation 5, PC
 
-The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
-oceanic world dotted with islands. Players control a young version of Link as he
-sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
-Initially divisive for its art style, the game is now widely praised for its
-expressive visuals, music, and sense of adventure.
+God of War (2018) reinvents the long-running series with a more grounded
+narrative and a new mythological setting inspired by Norse legends. Players
+follow Kratos and his son Atreus on an emotional journey that blends intense
+combat with character-driven storytelling. The game is praised for its cinematic
+presentation, refined combat system, and mature exploration of fatherhood.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
