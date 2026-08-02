@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-No Man's Sky
+Dishonored 2
 
-📅 Released August 9, 2016
-🏗️ Created by Hello Games
-🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
+📅 Released November 11, 2016
+🏗️ Created by Arkane Studios
+🕹️ Playable on PC, PlayStation 4, Xbox One
 
-No Man's Sky is a science fiction exploration game set in a procedurally
-generated universe with billions of planets. Players can explore, trade, fight,
-and survive while uncovering the mysteries of the cosmos. Over time, extensive
-updates have expanded the game with base building, multiplayer, story content,
-and deep systems that transformed it into a rich and expansive space sandbox.
+Dishonored 2 is a stealth-action game set in a richly detailed, steampunk-
+inspired world. Players can choose between two protagonists, each with unique
+supernatural abilities, and approach missions with freedom and creativity. The
+game emphasizes player choice, allowing for lethal or non-lethal solutions, and
+reacts dynamically to how the player shapes the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
