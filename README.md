@@ -125,6 +125,6 @@ Others         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio Code
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to `Show Command Palette`
+<kbd>Ctrl</kbd> + <kbd>.</kbd> to `Quick Fix`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
