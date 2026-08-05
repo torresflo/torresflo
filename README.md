@@ -44,18 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: Tears of the Kingdom
+The Binding of Isaac: Rebirth
 
-📅 Released May 12, 2023
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released November 4, 2014
+🏗️ Created by Nicalis
+🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
 
-The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
-of Breath of the Wild, introducing new abilities that allow players to
-manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
-emphasizes creativity and player-driven problem solving while delivering an epic
-story about the origins of Hyrule and an ancient threat. Its freedom of
-exploration and systemic design set a new benchmark for open-world games.
+The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
+twin-stick shooters. Players control Isaac as he descends into procedurally
+generated dungeons filled with enemies, items, and disturbing imagery. Known for
+its challenging gameplay and massive item variety, the game offers near-endless
+replayability and discovery.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
