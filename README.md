@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Satisfactory
+Baldur’s Gate 3
 
-📅 Released March 19, 2019
-🏗️ Created by Coffee Stain Studios
-🕹️ Playable on PC
+📅 Released August 3, 2023
+🏗️ Created by Larian Studios
+🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
 
-Satisfactory is a first-person factory-building and automation game set on an
-alien planet. Players gather resources, construct massive production lines, and
-optimize logistics to increase efficiency. The game blends exploration with
-complex engineering challenges, encouraging creativity and long-term planning as
-factories grow larger and more intricate.
+Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
+offering deep narrative choices and turn-based tactical combat. Players create
+their own character or choose from origin heroes, shaping the story through
+dialogue, actions, and combat decisions. The game is known for its reactivity,
+freedom, and faithful adaptation of tabletop RPG systems.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
