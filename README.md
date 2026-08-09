@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Baldur’s Gate 3
+Animal Crossing: New Horizons
 
-📅 Released August 3, 2023
-🏗️ Created by Larian Studios
-🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
+📅 Released March 20, 2020
+🏗️ Created by Nintendo
+🕹️ Playable on Nintendo Switch
 
-Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
-offering deep narrative choices and turn-based tactical combat. Players create
-their own character or choose from origin heroes, shaping the story through
-dialogue, actions, and combat decisions. The game is known for its reactivity,
-freedom, and faithful adaptation of tabletop RPG systems.
+Animal Crossing: New Horizons invites players to create a new life on a deserted
+island filled with charming animal neighbors. The game focuses on customization,
+relaxation, and real-time progression as players decorate their island, collect
+items, and build relationships. Its calming pace and creative freedom made it
+especially beloved as a social and comforting experience.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
