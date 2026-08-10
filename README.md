@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Animal Crossing: New Horizons
+The Legend of Zelda: The Wind Waker
 
-📅 Released March 20, 2020
+📅 Released March 24, 2003
 🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+🕹️ Playable on GameCube, Wii U
 
-Animal Crossing: New Horizons invites players to create a new life on a deserted
-island filled with charming animal neighbors. The game focuses on customization,
-relaxation, and real-time progression as players decorate their island, collect
-items, and build relationships. Its calming pace and creative freedom made it
-especially beloved as a social and comforting experience.
+The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
+oceanic world dotted with islands. Players control a young version of Link as he
+sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
+Initially divisive for its art style, the game is now widely praised for its
+expressive visuals, music, and sense of adventure.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
