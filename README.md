@@ -65,7 +65,7 @@ the surprise return to the Kanto region after completing the main story.
 🎮 Recently played Steam games
 
 ```text
-No recently played games 😢
+🎮 ReStory: Chill Electronics Repairs🕘 1 hour 41 minutes
 ```
 
 🎮 Steam playtime leaderboard
