@@ -65,7 +65,7 @@ freedom, and faithful adaptation of tabletop RPG systems.
 🎮 Recently played Steam games
 
 ```text
-🎮 ReStory: Chill Electronics Repairs🕘 1 hour 41 minutes
+🎮 ReStory: Chill Electronics Repairs🕘 8 hours 31 minutes
 ```
 
 🎮 Steam playtime leaderboard
