@@ -65,7 +65,7 @@ emergent storytelling.
 🎮 Recently played Steam games
 
 ```text
-🎮 ReStory: Chill Electronics Repairs🕘 8 hours 31 minutes
+🎮 ReStory: Chill Electronics Repairs🕘 9 hours 55 minutes
 ```
 
 🎮 Steam playtime leaderboard
