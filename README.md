@@ -65,7 +65,7 @@ its clever level design, sharp humor, and engaging cooperative mode.
 🎮 Recently played Steam games
 
 ```text
-🎮 ReStory: Chill Electronics Repairs🕘 9 hours 55 minutes
+🎮 ReStory: Chill Electronics Repairs🕘 12 hours 48 minutes
 ```
 
 🎮 Steam playtime leaderboard
