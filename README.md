@@ -65,7 +65,7 @@ presentation, refined combat system, and mature exploration of fatherhood.
 🎮 Recently played Steam games
 
 ```text
-🎮 ReStory: Chill Electronics Repairs🕘 12 hours 48 minutes
+🎮 ReStory: Chill Electronics Repairs🕘 13 hours 41 minutes
 ```
 
 🎮 Steam playtime leaderboard
