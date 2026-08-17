@@ -87,7 +87,7 @@ soundtrack helped define it as one of the greatest platformers ever made.
 <!-- github-stats-box start -->
 My GitHub Stats
 ```text
-⭐ Total Stars:                     130
+⭐ Total Stars:                     131
 ➕ Total Commits:                   425
 🔀 Total Pull Requests:             3
 🚩 Total Issues:                    0
