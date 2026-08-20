@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-F-Zero GX
+Satisfactory
 
-📅 Released July 25, 2003
-🏗️ Created by Amusement Vision
-🕹️ Playable on GameCube
+📅 Released March 19, 2019
+🏗️ Created by Coffee Stain Studios
+🕹️ Playable on PC
 
-F-Zero GX is a high-speed futuristic racing game known for its extreme
-difficulty and sense of speed. Players race anti-gravity vehicles on twisting
-tracks while managing boosts and sharp turns at breakneck velocities. The game
-stands out for its tight controls, bold visual style, and reputation as one of
-the most challenging racing games of its era.
+Satisfactory is a first-person factory-building and automation game set on an
+alien planet. Players gather resources, construct massive production lines, and
+optimize logistics to increase efficiency. The game blends exploration with
+complex engineering challenges, encouraging creativity and long-term planning as
+factories grow larger and more intricate.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
