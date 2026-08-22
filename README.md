@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Pokémon Gold
+Blue Prince
 
-📅 Released November 21, 1999
-🏗️ Created by Game Freak
-🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
+📅 Released April 10, 2024
+🏗️ Created by Dogubomb
+🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
 
-Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
-the introduction of a real-time day and night system. Players explore the Johto
-region while collecting Pokémon, battling Gym Leaders, and thwarting Team
-Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
-the surprise return to the Kanto region after completing the main story.
+Blue Prince is a puzzle-adventure game centered around exploring a mysterious,
+ever-changing mansion. Each room presents unique challenges, secrets, and
+narrative fragments that slowly reveal the story behind the estate. The game
+emphasizes atmosphere, clever environmental puzzles, and player curiosity,
+rewarding careful observation and experimentation.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
