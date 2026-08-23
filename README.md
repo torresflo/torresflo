@@ -44,17 +44,18 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Blue Prince
+The Legend of Zelda: Tears of the Kingdom
 
-📅 Released April 10, 2024
-🏗️ Created by Dogubomb
-🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
+📅 Released May 12, 2023
+🏗️ Created by Nintendo
+🕹️ Playable on Nintendo Switch
 
-Blue Prince is a puzzle-adventure game centered around exploring a mysterious,
-ever-changing mansion. Each room presents unique challenges, secrets, and
-narrative fragments that slowly reveal the story behind the estate. The game
-emphasizes atmosphere, clever environmental puzzles, and player curiosity,
-rewarding careful observation and experimentation.
+The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
+of Breath of the Wild, introducing new abilities that allow players to
+manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
+emphasizes creativity and player-driven problem solving while delivering an epic
+story about the origins of Hyrule and an ancient threat. Its freedom of
+exploration and systemic design set a new benchmark for open-world games.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
