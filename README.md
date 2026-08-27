@@ -44,17 +44,18 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Satisfactory
+Tales of Symphonia
 
-📅 Released March 19, 2019
-🏗️ Created by Coffee Stain Studios
-🕹️ Playable on PC
+📅 Released August 29, 2003
+🏗️ Created by Namco Tales Studio
+🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
 
-Satisfactory is a first-person factory-building and automation game set on an
-alien planet. Players gather resources, construct massive production lines, and
-optimize logistics to increase efficiency. The game blends exploration with
-complex engineering challenges, encouraging creativity and long-term planning as
-factories grow larger and more intricate.
+Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
+Irving and his companions on a journey to regenerate a dying world. Featuring
+real-time combat through the Linear Motion Battle System, the game blends action
+and strategy while emphasizing character relationships and moral choices. Its
+story explores themes of sacrifice, prejudice, and what it truly means to save
+the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
