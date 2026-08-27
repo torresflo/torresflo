@@ -66,6 +66,7 @@ factories grow larger and more intricate.
 
 ```text
 🎮 ReStory: Chill Electronics Repairs🕘 13 hours 41 minutes
+🎮 Sovereign Tower                   🕘 4 hours 13 minutes
 ```
 
 🎮 Steam playtime leaderboard
