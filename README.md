@@ -44,18 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Tales of Symphonia
+Super Mario Galaxy
 
-📅 Released August 29, 2003
-🏗️ Created by Namco Tales Studio
-🕹️ Playable on GameCube, PlayStation 3, PlayStation 4, Nintendo Switch, PC
+📅 Released November 1, 2007
+🏗️ Created by Nintendo
+🕹️ Playable on Wii, Nintendo Switch
 
-Tales of Symphonia is a classic Japanese role-playing game that follows Lloyd
-Irving and his companions on a journey to regenerate a dying world. Featuring
-real-time combat through the Linear Motion Battle System, the game blends action
-and strategy while emphasizing character relationships and moral choices. Its
-story explores themes of sacrifice, prejudice, and what it truly means to save
-the world.
+Super Mario Galaxy reimagines classic Mario platforming by sending players
+across a universe of small, gravity-defying planets. The game introduces
+creative level designs that play with physics while maintaining tight,
+responsive controls. Its sense of wonder, inventive gameplay, and orchestral
+soundtrack helped define it as one of the greatest platformers ever made.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
