@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-FTL: Faster Than Light
+Dishonored 2
 
-📅 Released September 14, 2012
-🏗️ Created by Subset Games
-🕹️ Playable on PC, iOS
+📅 Released November 11, 2016
+🏗️ Created by Arkane Studios
+🕹️ Playable on PC, PlayStation 4, Xbox One
 
-FTL: Faster Than Light is a roguelike strategy game where players command a
-spaceship fleeing across a hostile galaxy. Each run is procedurally generated,
-forcing players to make tough decisions about crew management, ship upgrades,
-and combat tactics. The game is celebrated for its tension, replayability, and
-emergent storytelling.
+Dishonored 2 is a stealth-action game set in a richly detailed, steampunk-
+inspired world. Players can choose between two protagonists, each with unique
+supernatural abilities, and approach missions with freedom and creativity. The
+game emphasizes player choice, allowing for lethal or non-lethal solutions, and
+reacts dynamically to how the player shapes the world.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
