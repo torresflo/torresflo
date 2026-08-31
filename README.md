@@ -65,7 +65,7 @@ reacts dynamically to how the player shapes the world.
 🎮 Recently played Steam games
 
 ```text
-🎮 Sovereign Tower                   🕘 4 hours 13 minutes
+🎮 Sovereign Tower                   🕘 13 hours 2 minutes
 ```
 
 🎮 Steam playtime leaderboard
