@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-God of War (2018)
+Satisfactory
 
-📅 Released April 20, 2018
-🏗️ Created by Santa Monica Studio
-🕹️ Playable on PlayStation 4, PlayStation 5, PC
+📅 Released March 19, 2019
+🏗️ Created by Coffee Stain Studios
+🕹️ Playable on PC
 
-God of War (2018) reinvents the long-running series with a more grounded
-narrative and a new mythological setting inspired by Norse legends. Players
-follow Kratos and his son Atreus on an emotional journey that blends intense
-combat with character-driven storytelling. The game is praised for its cinematic
-presentation, refined combat system, and mature exploration of fatherhood.
+Satisfactory is a first-person factory-building and automation game set on an
+alien planet. Players gather resources, construct massive production lines, and
+optimize logistics to increase efficiency. The game blends exploration with
+complex engineering challenges, encouraging creativity and long-term planning as
+factories grow larger and more intricate.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
