@@ -123,8 +123,8 @@ Others         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>^</kbd> + <kbd>5</kbd> to `Stop`
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> to `Go to Symbol...`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
