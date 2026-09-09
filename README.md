@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Super Mario Galaxy
+Baldur’s Gate 3
 
-📅 Released November 1, 2007
-🏗️ Created by Nintendo
-🕹️ Playable on Wii, Nintendo Switch
+📅 Released August 3, 2023
+🏗️ Created by Larian Studios
+🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
 
-Super Mario Galaxy reimagines classic Mario platforming by sending players
-across a universe of small, gravity-defying planets. The game introduces
-creative level designs that play with physics while maintaining tight,
-responsive controls. Its sense of wonder, inventive gameplay, and orchestral
-soundtrack helped define it as one of the greatest platformers ever made.
+Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
+offering deep narrative choices and turn-based tactical combat. Players create
+their own character or choose from origin heroes, shaping the story through
+dialogue, actions, and combat decisions. The game is known for its reactivity,
+freedom, and faithful adaptation of tabletop RPG systems.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
