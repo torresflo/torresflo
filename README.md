@@ -66,6 +66,7 @@ freedom, and faithful adaptation of tabletop RPG systems.
 
 ```text
 🎮 Sovereign Tower                   🕘 13 hours 2 minutes
+🪐 No Man's Sky                      🕘 107 hours 40 minutes
 ```
 
 🎮 Steam playtime leaderboard
