@@ -17,7 +17,7 @@ I worked on several games during my career, here there are!
 
 At Sandfall Interactive:
 - [Clair Obscur: Expedition 33](https://www.expedition33.com/), released April 24, 2025. ✨GOTY 2025✨  
-I had the chance to talk at GDC about my work on Clair Obscur: Expedition 33, you can find the video on the [GDC Vault](https://gdcvault.com/play/1035795/-Clair-Obscur-Expedition-33) (access for members only).
+I had the chance to talk at GDC about my work on Clair Obscur: Expedition 33, you can find the [video here](https://www.youtube.com/watch?v=BLUbu8he0og) (french accent and anxiety hearable 😅).
 
 At Ubisoft:
 - [Beyond Good and Evil 2](https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2), not released yet (maybe one day?).
