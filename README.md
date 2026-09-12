@@ -66,7 +66,7 @@ and deep systems that transformed it into a rich and expansive space sandbox.
 
 ```text
 🎮 Sovereign Tower                   🕘 13 hours 2 minutes
-🪐 No Man's Sky                      🕘 107 hours 40 minutes
+🪐 No Man's Sky                      🕘 111 hours 33 minutes
 ```
 
 🎮 Steam playtime leaderboard
