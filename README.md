@@ -22,8 +22,8 @@ I had the chance to talk at GDC about my work on Clair Obscur: Expedition 33, yo
 At Ubisoft:
 - [Beyond Good and Evil 2](https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2), not released yet (maybe one day?).
 - [Skull & Bones](https://www.ubisoft.com/en-us/game/skull-and-bones), released February 13, 2024.
-- [Tom Clancy's Ghost Recon Breakpoint](https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint), released October 4, 2019.
-- [Tom Clancy's Ghost Recon Wildlands](https://www.ubisoft.com/en-us/game/ghost-recon/breakpoint/wildlands), released March 7, 2017.
+- [Tom Clancy's Ghost Recon Breakpoint](https://store.ubisoft.com/fr/tom-clancys-ghost-recon-breakpoint/5cc81f5f6b54a4cd3c0e9cfd.html), released October 4, 2019.
+- [Tom Clancy's Ghost Recon Wildlands](https://store.ubisoft.com/fr/tom-clancys-ghost-recon-wildlands/574474b488a7e3b8638b456a.html), released March 7, 2017.
 
 --------------------------------------
 
