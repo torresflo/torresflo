@@ -65,8 +65,8 @@ the surprise return to the Kanto region after completing the main story.
 🎮 Recently played Steam games
 
 ```text
+🪐 No Man's Sky                      🕘 114 hours 30 minutes
 🎮 Sovereign Tower                   🕘 13 hours 2 minutes
-🪐 No Man's Sky                      🕘 111 hours 33 minutes
 ```
 
 🎮 Steam playtime leaderboard
