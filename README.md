@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Portal 2
+The Legend of Zelda: The Wind Waker
 
-📅 Released April 19, 2011
-🏗️ Created by Valve
-🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
+📅 Released March 24, 2003
+🏗️ Created by Nintendo
+🕹️ Playable on GameCube, Wii U
 
-Portal 2 is a first-person puzzle game that challenges players to think
-spatially using a device that creates linked portals. Building on the original
-game, it introduces a longer campaign, new mechanics, and a memorable cast of
-characters, including the sarcastic AI GLaDOS. The game is widely praised for
-its clever level design, sharp humor, and engaging cooperative mode.
+The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
+oceanic world dotted with islands. Players control a young version of Link as he
+sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
+Initially divisive for its art style, the game is now widely praised for its
+expressive visuals, music, and sense of adventure.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
