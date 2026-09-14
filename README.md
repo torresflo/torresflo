@@ -88,7 +88,7 @@ the most challenging racing games of its era.
 My GitHub Stats
 ```text
 ⭐ Total Stars:                     133
-➕ Total Commits:                   425
+➕ Total Commits:                   428
 🔀 Total Pull Requests:             3
 🚩 Total Issues:                    0
 📦 Contributed to:                  0
