@@ -66,7 +66,6 @@ expressive visuals, music, and sense of adventure.
 
 ```text
 🪐 No Man's Sky                      🕘 114 hours 30 minutes
-🎮 Sovereign Tower                   🕘 13 hours 2 minutes
 ```
 
 🎮 Steam playtime leaderboard
