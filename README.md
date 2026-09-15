@@ -65,7 +65,7 @@ the most challenging racing games of its era.
 🎮 Recently played Steam games
 
 ```text
-🪐 No Man's Sky                      🕘 114 hours 30 minutes
+🪐 No Man's Sky                      🕘 119 hours 34 minutes
 ```
 
 🎮 Steam playtime leaderboard
