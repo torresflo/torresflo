@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-F-Zero GX
+God of War (2018)
 
-📅 Released July 25, 2003
-🏗️ Created by Amusement Vision
-🕹️ Playable on GameCube
+📅 Released April 20, 2018
+🏗️ Created by Santa Monica Studio
+🕹️ Playable on PlayStation 4, PlayStation 5, PC
 
-F-Zero GX is a high-speed futuristic racing game known for its extreme
-difficulty and sense of speed. Players race anti-gravity vehicles on twisting
-tracks while managing boosts and sharp turns at breakneck velocities. The game
-stands out for its tight controls, bold visual style, and reputation as one of
-the most challenging racing games of its era.
+God of War (2018) reinvents the long-running series with a more grounded
+narrative and a new mythological setting inspired by Norse legends. Players
+follow Kratos and his son Atreus on an emotional journey that blends intense
+combat with character-driven storytelling. The game is praised for its cinematic
+presentation, refined combat system, and mature exploration of fatherhood.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
