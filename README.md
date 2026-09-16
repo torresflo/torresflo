@@ -65,7 +65,7 @@ presentation, refined combat system, and mature exploration of fatherhood.
 🎮 Recently played Steam games
 
 ```text
-🪐 No Man's Sky                      🕘 119 hours 34 minutes
+🪐 No Man's Sky                      🕘 121 hours 46 minutes
 ```
 
 🎮 Steam playtime leaderboard
