@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Titanfall 2
+No Man's Sky
 
-📅 Released October 28, 2016
-🏗️ Created by Respawn Entertainment
-🕹️ Playable on PC, PlayStation 4, Xbox One
+📅 Released August 9, 2016
+🏗️ Created by Hello Games
+🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
 
-Titanfall 2 combines fast-paced first-person shooter combat with fluid parkour
-movement and massive mech battles. Its single-player campaign is praised for
-inventive level design and the emotional bond between the pilot and their Titan,
-BT-7274. The multiplayer expands on the original with deeper customization and
-refined mechanics, making it a standout in the genre.
+No Man's Sky is a science fiction exploration game set in a procedurally
+generated universe with billions of planets. Players can explore, trade, fight,
+and survive while uncovering the mysteries of the cosmos. Over time, extensive
+updates have expanded the game with base building, multiplayer, story content,
+and deep systems that transformed it into a rich and expansive space sandbox.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
