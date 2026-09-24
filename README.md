@@ -44,18 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: Tears of the Kingdom
+F-Zero GX
 
-📅 Released May 12, 2023
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released July 25, 2003
+🏗️ Created by Amusement Vision
+🕹️ Playable on GameCube
 
-The Legend of Zelda: Tears of the Kingdom builds upon the open-world foundation
-of Breath of the Wild, introducing new abilities that allow players to
-manipulate objects, craft vehicles, and explore the skies above Hyrule. The game
-emphasizes creativity and player-driven problem solving while delivering an epic
-story about the origins of Hyrule and an ancient threat. Its freedom of
-exploration and systemic design set a new benchmark for open-world games.
+F-Zero GX is a high-speed futuristic racing game known for its extreme
+difficulty and sense of speed. Players race anti-gravity vehicles on twisting
+tracks while managing boosts and sharp turns at breakneck velocities. The game
+stands out for its tight controls, bold visual style, and reputation as one of
+the most challenging racing games of its era.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
