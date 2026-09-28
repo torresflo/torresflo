@@ -87,7 +87,7 @@ its clever level design, sharp humor, and engaging cooperative mode.
 <!-- github-stats-box start -->
 My GitHub Stats
 ```text
-⭐ Total Stars:                     133
+⭐ Total Stars:                     134
 ➕ Total Commits:                   428
 🔀 Total Pull Requests:             3
 🚩 Total Issues:                    0
