@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Portal 2
+No Man's Sky
 
-📅 Released April 19, 2011
-🏗️ Created by Valve
-🕹️ Playable on PC, PlayStation 3, Xbox 360, Xbox One, Nintendo Switch
+📅 Released August 9, 2016
+🏗️ Created by Hello Games
+🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
 
-Portal 2 is a first-person puzzle game that challenges players to think
-spatially using a device that creates linked portals. Building on the original
-game, it introduces a longer campaign, new mechanics, and a memorable cast of
-characters, including the sarcastic AI GLaDOS. The game is widely praised for
-its clever level design, sharp humor, and engaging cooperative mode.
+No Man's Sky is a science fiction exploration game set in a procedurally
+generated universe with billions of planets. Players can explore, trade, fight,
+and survive while uncovering the mysteries of the cosmos. Over time, extensive
+updates have expanded the game with base building, multiplayer, story content,
+and deep systems that transformed it into a rich and expansive space sandbox.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
