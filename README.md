@@ -44,18 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Persona 5
+Satisfactory
 
-📅 Released September 15, 2016
-🏗️ Created by Atlus
-🕹️ Playable on PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, PC
+📅 Released March 19, 2019
+🏗️ Created by Coffee Stain Studios
+🕹️ Playable on PC
 
-Persona 5 is a stylish Japanese role-playing game that follows a group of high
-school students who secretly explore supernatural palaces to change corrupt
-hearts. Blending turn-based combat with life simulation elements, the game
-balances dungeon crawling with daily activities and social relationships. Its
-bold art style, memorable soundtrack, and themes of rebellion and justice earned
-it widespread acclaim.
+Satisfactory is a first-person factory-building and automation game set on an
+alien planet. Players gather resources, construct massive production lines, and
+optimize logistics to increase efficiency. The game blends exploration with
+complex engineering challenges, encouraging creativity and long-term planning as
+factories grow larger and more intricate.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
