@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Satisfactory
+Fable
 
-📅 Released March 19, 2019
-🏗️ Created by Coffee Stain Studios
-🕹️ Playable on PC
+📅 Released September 14, 2004
+🏗️ Created by Lionhead Studios
+🕹️ Playable on Xbox, PC, Xbox 360
 
-Satisfactory is a first-person factory-building and automation game set on an
-alien planet. Players gather resources, construct massive production lines, and
-optimize logistics to increase efficiency. The game blends exploration with
-complex engineering challenges, encouraging creativity and long-term planning as
-factories grow larger and more intricate.
+Fable is an action role-playing game set in the fantasy world of Albion, where
+player choices directly shape the hero’s appearance and morality. The game
+emphasizes freedom, allowing players to decide how their character behaves and
+is perceived by others. Its blend of humor, storytelling, and consequence-driven
+gameplay made it a memorable RPG experience.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
