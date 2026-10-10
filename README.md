@@ -125,6 +125,6 @@ Others         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>F5</kbd> to `Debug`
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> to `Open Solution Explorer`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
