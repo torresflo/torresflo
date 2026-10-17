@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Satisfactory
+Pokémon Gold
 
-📅 Released March 19, 2019
-🏗️ Created by Coffee Stain Studios
-🕹️ Playable on PC
+📅 Released November 21, 1999
+🏗️ Created by Game Freak
+🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
 
-Satisfactory is a first-person factory-building and automation game set on an
-alien planet. Players gather resources, construct massive production lines, and
-optimize logistics to increase efficiency. The game blends exploration with
-complex engineering challenges, encouraging creativity and long-term planning as
-factories grow larger and more intricate.
+Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
+the introduction of a real-time day and night system. Players explore the Johto
+region while collecting Pokémon, battling Gym Leaders, and thwarting Team
+Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
+the surprise return to the Kanto region after completing the main story.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
