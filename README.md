@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Animal Crossing: New Horizons
+No Man's Sky
 
-📅 Released March 20, 2020
-🏗️ Created by Nintendo
-🕹️ Playable on Nintendo Switch
+📅 Released August 9, 2016
+🏗️ Created by Hello Games
+🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
 
-Animal Crossing: New Horizons invites players to create a new life on a deserted
-island filled with charming animal neighbors. The game focuses on customization,
-relaxation, and real-time progression as players decorate their island, collect
-items, and build relationships. Its calming pace and creative freedom made it
-especially beloved as a social and comforting experience.
+No Man's Sky is a science fiction exploration game set in a procedurally
+generated universe with billions of planets. Players can explore, trade, fight,
+and survive while uncovering the mysteries of the cosmos. Over time, extensive
+updates have expanded the game with base building, multiplayer, story content,
+and deep systems that transformed it into a rich and expansive space sandbox.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
