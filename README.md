@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-No Man's Sky
+Baldur’s Gate 3
 
-📅 Released August 9, 2016
-🏗️ Created by Hello Games
-🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
+📅 Released August 3, 2023
+🏗️ Created by Larian Studios
+🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
 
-No Man's Sky is a science fiction exploration game set in a procedurally
-generated universe with billions of planets. Players can explore, trade, fight,
-and survive while uncovering the mysteries of the cosmos. Over time, extensive
-updates have expanded the game with base building, multiplayer, story content,
-and deep systems that transformed it into a rich and expansive space sandbox.
+Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
+offering deep narrative choices and turn-based tactical combat. Players create
+their own character or choose from origin heroes, shaping the story through
+dialogue, actions, and combat decisions. The game is known for its reactivity,
+freedom, and faithful adaptation of tabletop RPG systems.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
