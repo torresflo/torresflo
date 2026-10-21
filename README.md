@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Baldur’s Gate 3
+The Legend of Zelda: The Wind Waker
 
-📅 Released August 3, 2023
-🏗️ Created by Larian Studios
-🕹️ Playable on PC, PlayStation 5, Xbox Series X|S
+📅 Released March 24, 2003
+🏗️ Created by Nintendo
+🕹️ Playable on GameCube, Wii U
 
-Baldur’s Gate 3 is a role-playing game set in the Dungeons & Dragons universe,
-offering deep narrative choices and turn-based tactical combat. Players create
-their own character or choose from origin heroes, shaping the story through
-dialogue, actions, and combat decisions. The game is known for its reactivity,
-freedom, and faithful adaptation of tabletop RPG systems.
+The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
+oceanic world dotted with islands. Players control a young version of Link as he
+sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
+Initially divisive for its art style, the game is now widely praised for its
+expressive visuals, music, and sense of adventure.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
