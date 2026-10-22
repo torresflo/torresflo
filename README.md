@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-The Legend of Zelda: The Wind Waker
+Pokémon Gold
 
-📅 Released March 24, 2003
-🏗️ Created by Nintendo
-🕹️ Playable on GameCube, Wii U
+📅 Released November 21, 1999
+🏗️ Created by Game Freak
+🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
 
-The Legend of Zelda: The Wind Waker is a cel-shaded adventure game set in a vast
-oceanic world dotted with islands. Players control a young version of Link as he
-sails the seas, explores dungeons, and uncovers the fate of a flooded Hyrule.
-Initially divisive for its art style, the game is now widely praised for its
-expressive visuals, music, and sense of adventure.
+Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
+the introduction of a real-time day and night system. Players explore the Johto
+region while collecting Pokémon, battling Gym Leaders, and thwarting Team
+Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
+the surprise return to the Kanto region after completing the main story.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
