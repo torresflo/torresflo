@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Pokémon Gold
+God of War (2018)
 
-📅 Released November 21, 1999
-🏗️ Created by Game Freak
-🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
+📅 Released April 20, 2018
+🏗️ Created by Santa Monica Studio
+🕹️ Playable on PlayStation 4, PlayStation 5, PC
 
-Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
-the introduction of a real-time day and night system. Players explore the Johto
-region while collecting Pokémon, battling Gym Leaders, and thwarting Team
-Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
-the surprise return to the Kanto region after completing the main story.
+God of War (2018) reinvents the long-running series with a more grounded
+narrative and a new mythological setting inspired by Norse legends. Players
+follow Kratos and his son Atreus on an emotional journey that blends intense
+combat with character-driven storytelling. The game is praised for its cinematic
+presentation, refined combat system, and mature exploration of fatherhood.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
