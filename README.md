@@ -44,17 +44,18 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-God of War (2018)
+Persona 5
 
-📅 Released April 20, 2018
-🏗️ Created by Santa Monica Studio
-🕹️ Playable on PlayStation 4, PlayStation 5, PC
+📅 Released September 15, 2016
+🏗️ Created by Atlus
+🕹️ Playable on PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, PC
 
-God of War (2018) reinvents the long-running series with a more grounded
-narrative and a new mythological setting inspired by Norse legends. Players
-follow Kratos and his son Atreus on an emotional journey that blends intense
-combat with character-driven storytelling. The game is praised for its cinematic
-presentation, refined combat system, and mature exploration of fatherhood.
+Persona 5 is a stylish Japanese role-playing game that follows a group of high
+school students who secretly explore supernatural palaces to change corrupt
+hearts. Blending turn-based combat with life simulation elements, the game
+balances dungeon crawling with daily activities and social relationships. Its
+bold art style, memorable soundtrack, and themes of rebellion and justice earned
+it widespread acclaim.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
