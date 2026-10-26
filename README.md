@@ -87,7 +87,7 @@ No recently played games 😢
 <!-- github-stats-box start -->
 My GitHub Stats
 ```text
-⭐ Total Stars:                     135
+⭐ Total Stars:                     136
 ➕ Total Commits:                   428
 🔀 Total Pull Requests:             3
 🚩 Total Issues:                    0
