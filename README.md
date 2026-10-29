@@ -124,8 +124,8 @@ Others         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio
+In Visual Studio Code
 
-<kbd>Ctrl</kbd> + <kbd>T</kbd> to `Go to All`
+<kbd>Ctrl</kbd> + <kbd>Space</kbd> to `Trigger Suggestion`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
