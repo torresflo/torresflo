@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Pokémon Gold
+No Man's Sky
 
-📅 Released November 21, 1999
-🏗️ Created by Game Freak
-🕹️ Playable on Game Boy Color, Nintendo 3DS (Virtual Console)
+📅 Released August 9, 2016
+🏗️ Created by Hello Games
+🕹️ Playable on PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch
 
-Pokémon Gold expanded the Pokémon universe with new creatures, mechanics, and
-the introduction of a real-time day and night system. Players explore the Johto
-region while collecting Pokémon, battling Gym Leaders, and thwarting Team
-Rocket’s plans. The game is celebrated for its sense of discovery, depth, and
-the surprise return to the Kanto region after completing the main story.
+No Man's Sky is a science fiction exploration game set in a procedurally
+generated universe with billions of planets. Players can explore, trade, fight,
+and survive while uncovering the mysteries of the cosmos. Over time, extensive
+updates have expanded the game with base building, multiplayer, story content,
+and deep systems that transformed it into a rich and expansive space sandbox.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
