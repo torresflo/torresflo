@@ -123,8 +123,8 @@ Others         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Random shortcut every day
 
 <!-- shortcut-box start -->
-In Visual Studio Code
+In Visual Studio
 
-<kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>S</kbd> to `Keyboard Shortcuts`
+<kbd>F10</kbd> to `Step Over`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
