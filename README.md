@@ -126,6 +126,6 @@ Others         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- shortcut-box start -->
 In Visual Studio
 
-<kbd>^</kbd> + <kbd>F11</kbd> to `Step Out`
+<kbd>Ctrl</kbd> + <kbd>F12</kbd> to `Go to Implementation`
 <!-- Powered by https://github.com/torresflo/Shortcut-Me. -->
 <!-- shortcut-box end -->
