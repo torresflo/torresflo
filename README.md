@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Satisfactory
+Titanfall 2
 
-📅 Released March 19, 2019
-🏗️ Created by Coffee Stain Studios
-🕹️ Playable on PC
+📅 Released October 28, 2016
+🏗️ Created by Respawn Entertainment
+🕹️ Playable on PC, PlayStation 4, Xbox One
 
-Satisfactory is a first-person factory-building and automation game set on an
-alien planet. Players gather resources, construct massive production lines, and
-optimize logistics to increase efficiency. The game blends exploration with
-complex engineering challenges, encouraging creativity and long-term planning as
-factories grow larger and more intricate.
+Titanfall 2 combines fast-paced first-person shooter combat with fluid parkour
+movement and massive mech battles. Its single-player campaign is praised for
+inventive level design and the emotional bond between the pilot and their Titan,
+BT-7274. The multiplayer expands on the original with deeper customization and
+refined mechanics, making it a standout in the genre.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
