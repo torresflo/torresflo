@@ -65,7 +65,7 @@ factories grow larger and more intricate.
 🎮 Recently played Steam games
 
 ```text
-No recently played games 😢
+🎮 Big Walk                          🕘 2 hours 46 minutes
 ```
 
 🎮 Steam playtime leaderboard
