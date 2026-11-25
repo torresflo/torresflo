@@ -65,7 +65,7 @@ to its cooperative campaign, competitive online play, and robust Forge mode.
 🎮 Recently played Steam games
 
 ```text
-🎮 Big Walk                          🕘 2 hours 46 minutes
+🎮 Big Walk                          🕘 5 hours
 ```
 
 🎮 Steam playtime leaderboard
