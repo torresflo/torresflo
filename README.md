@@ -44,18 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-Persona 5
+The Binding of Isaac: Rebirth
 
-📅 Released September 15, 2016
-🏗️ Created by Atlus
-🕹️ Playable on PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, PC
+📅 Released November 4, 2014
+🏗️ Created by Nicalis
+🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
 
-Persona 5 is a stylish Japanese role-playing game that follows a group of high
-school students who secretly explore supernatural palaces to change corrupt
-hearts. Blending turn-based combat with life simulation elements, the game
-balances dungeon crawling with daily activities and social relationships. Its
-bold art style, memorable soundtrack, and themes of rebellion and justice earned
-it widespread acclaim.
+The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
+twin-stick shooters. Players control Isaac as he descends into procedurally
+generated dungeons filled with enemies, items, and disturbing imagery. Known for
+its challenging gameplay and massive item variety, the game offers near-endless
+replayability and discovery.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
