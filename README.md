@@ -44,17 +44,17 @@ This is updated every day, come back tomorrow for another great pick 👀
 
 <!-- favorite-game-box start -->
 ```
-The Binding of Isaac: Rebirth
+Super Mario Galaxy
 
-📅 Released November 4, 2014
-🏗️ Created by Nicalis
-🕹️ Playable on PC, PlayStation 4, Xbox One, Nintendo Switch, PlayStation Vita
+📅 Released November 1, 2007
+🏗️ Created by Nintendo
+🕹️ Playable on Wii, Nintendo Switch
 
-The Binding of Isaac: Rebirth is a dark roguelike dungeon crawler inspired by
-twin-stick shooters. Players control Isaac as he descends into procedurally
-generated dungeons filled with enemies, items, and disturbing imagery. Known for
-its challenging gameplay and massive item variety, the game offers near-endless
-replayability and discovery.
+Super Mario Galaxy reimagines classic Mario platforming by sending players
+across a universe of small, gravity-defying planets. The game introduces
+creative level designs that play with physics while maintaining tight,
+responsive controls. Its sense of wonder, inventive gameplay, and orchestral
+soundtrack helped define it as one of the greatest platformers ever made.
 ```
 <!-- Powered by https://github.com/torresflo/Favorite-Game-Box. -->
 <!-- favorite-game-box end -->
